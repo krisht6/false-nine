@@ -1,0 +1,489 @@
+{
+  "id": "2006-07",
+  "year": 2006,
+  "title": "United Return, Milan Revenge",
+  "dek": "Cristiano Ronaldo becomes a superstar in England, Manchester United take back the league, and Milan avenge Istanbul by beating Liverpool in Athens.",
+  "tags": [
+    "Ronaldo breakout",
+    "Milan revenge",
+    "Inter dominance",
+    "La Liga tiebreak drama"
+  ],
+  "storylines": [
+    "Manchester United win their first Premier League title since 2003, powered by Ronaldo, Rooney, Scholes and a rebuilt defense.",
+    "AC Milan beat Liverpool in the Champions League final two years after losing the Istanbul final.",
+    "Real Madrid win La Liga on head-to-head tiebreak over Barcelona in Fabio Capello’s second spell.",
+    "Inter dominate Serie A after Calciopoli, while Juventus spend the season in Serie B.",
+    "Kaká becomes Europe’s defining player of the season."
+  ],
+  "ballonDor": [
+    {
+      "rank": 1,
+      "player": "Kaká",
+      "club": "AC Milan"
+    },
+    {
+      "rank": 2,
+      "player": "Cristiano Ronaldo",
+      "club": "Manchester United"
+    },
+    {
+      "rank": 3,
+      "player": "Lionel Messi",
+      "club": "Barcelona"
+    }
+  ],
+  "goldenBoots": [
+    {
+      "comp": "European Golden Shoe",
+      "winner": "Francesco Totti",
+      "detail": "Roma"
+    },
+    {
+      "comp": "Premier League",
+      "winner": "Didier Drogba",
+      "detail": "Chelsea"
+    },
+    {
+      "comp": "La Liga",
+      "winner": "Ruud van Nistelrooy",
+      "detail": "Real Madrid"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Francesco Totti",
+      "detail": "Roma"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Theofanis Gekas",
+      "detail": "Bochum"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Pedro Pauleta",
+      "detail": "Paris Saint-Germain"
+    }
+  ],
+  "transfers": [
+    [
+      "Andriy Shevchenko",
+      "AC Milan",
+      "Chelsea"
+    ],
+    [
+      "Michael Ballack",
+      "Bayern Munich",
+      "Chelsea"
+    ],
+    [
+      "Ruud van Nistelrooy",
+      "Manchester United",
+      "Real Madrid"
+    ],
+    [
+      "Fabio Cannavaro",
+      "Juventus",
+      "Real Madrid"
+    ],
+    [
+      "Gianluca Zambrotta",
+      "Juventus",
+      "Barcelona"
+    ],
+    [
+      "Zlatan Ibrahimović",
+      "Juventus",
+      "Inter"
+    ],
+    [
+      "Patrick Vieira",
+      "Juventus",
+      "Inter"
+    ]
+  ],
+  "ucl": {
+    "winner": "AC Milan",
+    "runnerUp": "Liverpool",
+    "score": "AC Milan 2–1 Liverpool",
+    "venue": "Olympic Stadium, Athens",
+    "winnerCore": {
+      "s": [
+        "Kaká",
+        "Andrea Pirlo",
+        "Clarence Seedorf"
+      ],
+      "a": [
+        "Filippo Inzaghi",
+        "Paolo Maldini",
+        "Alessandro Nesta",
+        "Gennaro Gattuso",
+        "Dida"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Steven Gerrard",
+        "Xabi Alonso"
+      ],
+      "a": [
+        "Jamie Carragher",
+        "Pepe Reina",
+        "Javier Mascherano",
+        "Dirk Kuyt",
+        "Daniel Agger"
+      ]
+    }
+  },
+  "leagues": {
+    "Premier League": [
+      {
+        "position": 1,
+        "name": "Manchester United",
+        "tiers": {
+          "s": [
+            "Cristiano Ronaldo",
+            "Wayne Rooney"
+          ],
+          "a": [
+            "Paul Scholes",
+            "Rio Ferdinand",
+            "Nemanja Vidić",
+            "Ryan Giggs",
+            "Edwin van der Sar",
+            "Michael Carrick"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Chelsea",
+        "tiers": {
+          "s": [
+            "Didier Drogba",
+            "Frank Lampard"
+          ],
+          "a": [
+            "John Terry",
+            "Petr Čech",
+            "Michael Essien",
+            "Claude Makélélé",
+            "Ricardo Carvalho"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Liverpool",
+        "tiers": {
+          "s": [
+            "Steven Gerrard",
+            "Xabi Alonso"
+          ],
+          "a": [
+            "Jamie Carragher",
+            "Pepe Reina",
+            "Dirk Kuyt",
+            "Peter Crouch",
+            "Javier Mascherano"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Arsenal",
+        "tiers": {
+          "s": [
+            "Cesc Fàbregas",
+            "Thierry Henry"
+          ],
+          "a": [
+            "Robin van Persie",
+            "Gilberto Silva",
+            "Kolo Touré",
+            "Emmanuel Adebayor",
+            "Tomáš Rosický"
+          ]
+        }
+      }
+    ],
+    "La Liga": [
+      {
+        "position": 1,
+        "name": "Real Madrid",
+        "tiers": {
+          "s": [
+            "Ruud van Nistelrooy",
+            "Iker Casillas"
+          ],
+          "a": [
+            "Sergio Ramos",
+            "Raúl",
+            "Guti",
+            "Roberto Carlos",
+            "Fabio Cannavaro"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Barcelona",
+        "tiers": {
+          "s": [
+            "Ronaldinho",
+            "Lionel Messi",
+            "Samuel Eto’o"
+          ],
+          "a": [
+            "Xavi",
+            "Andrés Iniesta",
+            "Carles Puyol",
+            "Deco",
+            "Víctor Valdés"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Sevilla",
+        "tiers": {
+          "s": [
+            "Dani Alves",
+            "Frédéric Kanouté"
+          ],
+          "a": [
+            "Jesús Navas",
+            "Luis Fabiano",
+            "Andrés Palop",
+            "Seydou Keita",
+            "Renato"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Valencia",
+        "tiers": {
+          "s": [
+            "David Villa",
+            "David Silva"
+          ],
+          "a": [
+            "Santiago Cañizares",
+            "David Albelda",
+            "Miguel",
+            "Fernando Morientes",
+            "Rubén Baraja"
+          ]
+        }
+      }
+    ],
+    "Serie A": [
+      {
+        "position": 1,
+        "name": "Inter",
+        "tiers": {
+          "s": [
+            "Zlatan Ibrahimović",
+            "Javier Zanetti"
+          ],
+          "a": [
+            "Julio César",
+            "Esteban Cambiasso",
+            "Marco Materazzi",
+            "Patrick Vieira",
+            "Hernán Crespo"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Roma",
+        "tiers": {
+          "s": [
+            "Francesco Totti",
+            "Daniele De Rossi"
+          ],
+          "a": [
+            "Simone Perrotta",
+            "Mancini",
+            "Philippe Mexès",
+            "Christian Panucci",
+            "Rodrigo Taddei"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Lazio",
+        "tiers": {
+          "s": [
+            "Tommaso Rocchi",
+            "Goran Pandev"
+          ],
+          "a": [
+            "Cristian Ledesma",
+            "Massimo Oddo",
+            "Angelo Peruzzi",
+            "Valon Behrami",
+            "Stefano Mauri"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "AC Milan",
+        "tiers": {
+          "s": [
+            "Kaká",
+            "Andrea Pirlo"
+          ],
+          "a": [
+            "Clarence Seedorf",
+            "Gennaro Gattuso",
+            "Paolo Maldini",
+            "Alessandro Nesta",
+            "Filippo Inzaghi"
+          ]
+        }
+      }
+    ],
+    "Bundesliga": [
+      {
+        "position": 1,
+        "name": "Stuttgart",
+        "tiers": {
+          "s": [
+            "Mario Gómez",
+            "Cacau"
+          ],
+          "a": [
+            "Sami Khedira",
+            "Pável Pardo",
+            "Timo Hildebrand",
+            "Fernando Meira",
+            "Thomas Hitzlsperger"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Schalke 04",
+        "tiers": {
+          "s": [
+            "Kevin Kurányi",
+            "Lincoln"
+          ],
+          "a": [
+            "Marcelo Bordon",
+            "Rafinha",
+            "Mladen Krstajić",
+            "Manuel Neuer",
+            "Peter Løvenkrands"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Werder Bremen",
+        "tiers": {
+          "s": [
+            "Miroslav Klose",
+            "Diego"
+          ],
+          "a": [
+            "Torsten Frings",
+            "Naldo",
+            "Per Mertesacker",
+            "Tim Borowski",
+            "Aaron Hunt"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Bayern Munich",
+        "tiers": {
+          "s": [
+            "Roy Makaay",
+            "Oliver Kahn"
+          ],
+          "a": [
+            "Philipp Lahm",
+            "Bastian Schweinsteiger",
+            "Lúcio",
+            "Mark van Bommel",
+            "Hasan Salihamidžić"
+          ]
+        }
+      }
+    ],
+    "Ligue 1": [
+      {
+        "position": 1,
+        "name": "Lyon",
+        "tiers": {
+          "s": [
+            "Juninho",
+            "Florent Malouda"
+          ],
+          "a": [
+            "Karim Benzema",
+            "Cris",
+            "Grégory Coupet",
+            "Tiago",
+            "Fred"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Marseille",
+        "tiers": {
+          "s": [
+            "Franck Ribéry",
+            "Djibril Cissé"
+          ],
+          "a": [
+            "Samir Nasri",
+            "Lorik Cana",
+            "Mamadou Niang",
+            "Habib Beye"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Toulouse",
+        "tiers": {
+          "s": [
+            "Johan Elmander",
+            "Achille Emana"
+          ],
+          "a": [
+            "Jérémy Mathieu",
+            "Nicolas Dieuze",
+            "Cédric Carrasso",
+            "Pantxi Sirieix"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Rennes",
+        "tiers": {
+          "s": [
+            "John Mensah",
+            "Jimmy Briand"
+          ],
+          "a": [
+            "John Utaka",
+            "Étienne Didot",
+            "Bruno Cheyrou",
+            "Andreas Isaksson"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>False Nine</title>
+  <meta name="description" content="False Nine is a curated archive of modern football." />
+  <meta name="theme-color" content="#0b0b0a" media="(prefers-color-scheme: dark)" />
+  <meta name="theme-color" content="#f6f3ed" media="(prefers-color-scheme: light)" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="False Nine" />
+  <meta property="og:description" content="A curated archive of modern football." />
+  <meta property="og:url" content="https://falsenine.org/" />
+  <meta property="og:image" content="https://falsenine.org/assets/og.png" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="False Nine" />
+  <meta name="twitter:description" content="A curated archive of football history." />
+  <meta name="twitter:image" content="https://falsenine.org/assets/og.png" />
+  <link rel="icon" href="assets/favicon.png" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="assets/favicon.png" />
+  <link rel="manifest" href="assets/site.webmanifest" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="noise"></div>
+  <header class="topbar">
+    <button class="brand" data-nav="home" aria-label="Go home">
+      <span class="brand-mark">F9</span>
+      <span>False Nine</span>
+    </button>
+    <nav class="nav">
+      <button data-nav="home">Home</button>
+      <button data-nav="seasons">Seasons</button>
+      <button data-nav="clubs">Clubs</button>
+      <button data-nav="players">Players</button>
+      <button data-nav="sources">Notes</button>
+    </nav>
+    <button class="theme-toggle" id="themeToggle" type="button" aria-label="Toggle color theme">Light</button>
+  </header>
+
+  <main id="app"></main>
+
+  <footer class="site-footer">
+    <a href="https://twitter.com/orangejuicewrld" target="_blank" rel="noopener">@orangejuicewrld</a>
+  </footer>
+
+  <template id="search-template">
+    <section class="search-shell">
+      <div class="search-line">
+        <span>⌕</span>
+        <input id="globalSearch" type="search" placeholder="Search" autocomplete="off" />
+      </div>
+      <div id="searchResults" class="search-results"></div>
+    </section>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>

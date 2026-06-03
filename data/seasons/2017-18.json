@@ -1,0 +1,487 @@
+{
+  "id": "2017-18",
+  "year": 2017,
+  "title": "Threepeat and Kiev",
+  "dek": "Real Madrid complete the Champions League three-peat, Modrić reaches the Ballon d’Or summit after leading Croatia to the World Cup final, Salah transforms Liverpool, and Manchester City hit 100 points.",
+  "tags": [
+    "Madrid threepeat",
+    "City 100",
+    "Salah Liverpool",
+    "France 2018"
+  ],
+  "storylines": [
+    "Real Madrid complete a third straight Champions League title.",
+    "Manchester City finish with 100 Premier League points under Pep Guardiola.",
+    "Mohamed Salah becomes a Liverpool superstar.",
+    "France win the 2018 World Cup with a young, powerful squad.",
+    "PSG assemble Neymar and Mbappé in the same attack."
+  ],
+  "ballonDor": [
+    {
+      "rank": 1,
+      "player": "Luka Modrić",
+      "club": "Real Madrid"
+    },
+    {
+      "rank": 2,
+      "player": "Cristiano Ronaldo",
+      "club": "Juventus"
+    },
+    {
+      "rank": 3,
+      "player": "Antoine Griezmann",
+      "club": "Atlético Madrid"
+    }
+  ],
+  "goldenBoots": [
+    {
+      "comp": "European Golden Shoe",
+      "winner": "Lionel Messi",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Premier League",
+      "winner": "Mohamed Salah",
+      "detail": "Liverpool"
+    },
+    {
+      "comp": "La Liga",
+      "winner": "Lionel Messi",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Ciro Immobile",
+      "detail": "Lazio"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Mauro Icardi",
+      "detail": "Inter"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Robert Lewandowski",
+      "detail": "Bayern Munich"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Edinson Cavani",
+      "detail": "Paris Saint-Germain"
+    }
+  ],
+  "transfers": [
+    [
+      "Neymar",
+      "Barcelona",
+      "Paris Saint-Germain"
+    ],
+    [
+      "Kylian Mbappé",
+      "Monaco",
+      "Paris Saint-Germain"
+    ],
+    [
+      "Mohamed Salah",
+      "Roma",
+      "Liverpool"
+    ],
+    [
+      "Romelu Lukaku",
+      "Everton",
+      "Manchester United"
+    ],
+    [
+      "Ousmane Dembélé",
+      "Borussia Dortmund",
+      "Barcelona"
+    ],
+    [
+      "Kyle Walker",
+      "Tottenham Hotspur",
+      "Manchester City"
+    ],
+    [
+      "Alexandre Lacazette",
+      "Lyon",
+      "Arsenal"
+    ]
+  ],
+  "ucl": {
+    "winner": "Real Madrid",
+    "runnerUp": "Liverpool",
+    "score": "Real Madrid 3–1 Liverpool",
+    "venue": "NSC Olimpiyskiy, Kyiv",
+    "winnerCore": {
+      "s": [
+        "Cristiano Ronaldo",
+        "Gareth Bale",
+        "Sergio Ramos"
+      ],
+      "a": [
+        "Luka Modrić",
+        "Toni Kroos",
+        "Karim Benzema",
+        "Marcelo",
+        "Casemiro"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Mohamed Salah",
+        "Sadio Mané"
+      ],
+      "a": [
+        "Roberto Firmino",
+        "Virgil van Dijk",
+        "Jordan Henderson",
+        "Trent Alexander-Arnold"
+      ]
+    }
+  },
+  "leagues": {
+    "Premier League": [
+      {
+        "position": 1,
+        "name": "Manchester City",
+        "tiers": {
+          "s": [
+            "Kevin De Bruyne",
+            "Sergio Agüero"
+          ],
+          "a": [
+            "David Silva",
+            "Raheem Sterling",
+            "Fernandinho",
+            "Ederson"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Manchester United",
+        "tiers": {
+          "s": [
+            "David de Gea",
+            "Romelu Lukaku"
+          ],
+          "a": [
+            "Paul Pogba",
+            "Nemanja Matić",
+            "Antonio Valencia"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Tottenham Hotspur",
+        "tiers": {
+          "s": [
+            "Harry Kane",
+            "Christian Eriksen"
+          ],
+          "a": [
+            "Dele Alli",
+            "Heung-min Son",
+            "Hugo Lloris"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Liverpool",
+        "tiers": {
+          "s": [
+            "Mohamed Salah",
+            "Roberto Firmino"
+          ],
+          "a": [
+            "Sadio Mané",
+            "Virgil van Dijk",
+            "James Milner"
+          ]
+        }
+      }
+    ],
+    "La Liga": [
+      {
+        "position": 1,
+        "name": "Barcelona",
+        "tiers": {
+          "s": [
+            "Lionel Messi",
+            "Luis Suárez"
+          ],
+          "a": [
+            "Andrés Iniesta",
+            "Sergio Busquets",
+            "Gerard Piqué"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Atlético Madrid",
+        "tiers": {
+          "s": [
+            "Antoine Griezmann",
+            "Diego Godín"
+          ],
+          "a": [
+            "Jan Oblak",
+            "Koke",
+            "Saúl Ñíguez"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Real Madrid",
+        "tiers": {
+          "s": [
+            "Cristiano Ronaldo",
+            "Sergio Ramos"
+          ],
+          "a": [
+            "Luka Modrić",
+            "Toni Kroos",
+            "Marcelo"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Valencia",
+        "tiers": {
+          "s": [
+            "Rodrigo",
+            "Dani Parejo"
+          ],
+          "a": [
+            "Gonçalo Guedes",
+            "José Gayà",
+            "Neto"
+          ]
+        }
+      }
+    ],
+    "Serie A": [
+      {
+        "position": 1,
+        "name": "Juventus",
+        "tiers": {
+          "s": [
+            "Paulo Dybala",
+            "Gonzalo Higuaín"
+          ],
+          "a": [
+            "Gianluigi Buffon",
+            "Miralem Pjanić",
+            "Giorgio Chiellini"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Napoli",
+        "tiers": {
+          "s": [
+            "Dries Mertens",
+            "Lorenzo Insigne"
+          ],
+          "a": [
+            "Marek Hamšík",
+            "Jorginho",
+            "Kalidou Koulibaly"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Roma",
+        "tiers": {
+          "s": [
+            "Edin Džeko",
+            "Radja Nainggolan"
+          ],
+          "a": [
+            "Alisson",
+            "Daniele De Rossi",
+            "Kostas Manolas"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Inter",
+        "tiers": {
+          "s": [
+            "Mauro Icardi",
+            "Samir Handanović"
+          ],
+          "a": [
+            "Ivan Perišić",
+            "Milan Škriniar",
+            "Marcelo Brozović"
+          ]
+        }
+      }
+    ],
+    "Bundesliga": [
+      {
+        "position": 1,
+        "name": "Bayern Munich",
+        "tiers": {
+          "s": [
+            "Robert Lewandowski",
+            "Thomas Müller"
+          ],
+          "a": [
+            "James Rodríguez",
+            "Joshua Kimmich",
+            "Manuel Neuer"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Schalke 04",
+        "tiers": {
+          "s": [
+            "Leon Goretzka",
+            "Naldo"
+          ],
+          "a": [
+            "Ralf Fährmann",
+            "Guido Burgstaller",
+            "Amine Harit"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Hoffenheim",
+        "tiers": {
+          "s": [
+            "Andrej Kramarić",
+            "Serge Gnabry"
+          ],
+          "a": [
+            "Nadiem Amiri",
+            "Kerem Demirbay",
+            "Oliver Baumann"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Borussia Dortmund",
+        "tiers": {
+          "s": [
+            "Marco Reus",
+            "Christian Pulisic"
+          ],
+          "a": [
+            "Pierre-Emerick Aubameyang",
+            "Shinji Kagawa",
+            "Roman Bürki"
+          ]
+        }
+      }
+    ],
+    "Ligue 1": [
+      {
+        "position": 1,
+        "name": "Paris Saint-Germain",
+        "tiers": {
+          "s": [
+            "Neymar",
+            "Kylian Mbappé"
+          ],
+          "a": [
+            "Edinson Cavani",
+            "Marco Verratti",
+            "Thiago Silva"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Monaco",
+        "tiers": {
+          "s": [
+            "Radamel Falcao",
+            "Fabinho"
+          ],
+          "a": [
+            "Thomas Lemar",
+            "Rony Lopes",
+            "Danijel Subašić"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Lyon",
+        "tiers": {
+          "s": [
+            "Nabil Fekir",
+            "Memphis Depay"
+          ],
+          "a": [
+            "Houssem Aouar",
+            "Tanguy Ndombele",
+            "Anthony Lopes"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Marseille",
+        "tiers": {
+          "s": [
+            "Florian Thauvin",
+            "Dimitri Payet"
+          ],
+          "a": [
+            "Luiz Gustavo",
+            "Steve Mandanda",
+            "Adil Rami"
+          ]
+        }
+      }
+    ]
+  },
+  "international": {
+    "type": "World Cup",
+    "year": 2018,
+    "winner": "France",
+    "runnerUp": "Croatia",
+    "score": "France 4–2 Croatia",
+    "winnerCore": {
+      "s": [
+        "Kylian Mbappé",
+        "Antoine Griezmann"
+      ],
+      "a": [
+        "Paul Pogba",
+        "N’Golo Kanté",
+        "Raphaël Varane",
+        "Hugo Lloris",
+        "Olivier Giroud"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Luka Modrić",
+        "Ivan Rakitić"
+      ],
+      "a": [
+        "Mario Mandžukić",
+        "Ivan Perišić",
+        "Dejan Lovren",
+        "Marcelo Brozović"
+      ]
+    }
+  }
+}

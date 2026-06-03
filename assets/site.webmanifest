@@ -1,0 +1,10 @@
+{
+  "name": "False Nine",
+  "short_name": "False Nine",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png" }
+  ],
+  "theme_color": "#080806",
+  "background_color": "#080806",
+  "display": "standalone"
+}

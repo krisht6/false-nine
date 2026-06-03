@@ -1,0 +1,438 @@
+{
+  "id": "2019-20",
+  "year": 2019,
+  "title": "Pandemic and Bayern Machine",
+  "dek": "Liverpool end the 30-year league wait, Bayern become European champions in a compressed Lisbon tournament, and the pandemic transforms the season’s rhythm.",
+  "tags": [
+    "Liverpool title",
+    "Bayern Lisbon",
+    "Pandemic pause",
+    "PSG final"
+  ],
+  "storylines": [
+    "Liverpool win their first English league title in 30 years.",
+    "Bayern Munich win a treble in a pandemic-disrupted season.",
+    "The Champions League knockout stage is completed as a one-city Lisbon tournament.",
+    "PSG reach their first Champions League final.",
+    "Atalanta become one of Europe’s most entertaining attacking teams."
+  ],
+  "ballonDor": [],
+  "goldenBoots": [
+    {
+      "comp": "European Golden Shoe",
+      "winner": "Ciro Immobile",
+      "detail": "Lazio"
+    },
+    {
+      "comp": "Premier League",
+      "winner": "Jamie Vardy",
+      "detail": "Leicester City"
+    },
+    {
+      "comp": "La Liga",
+      "winner": "Lionel Messi",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Ciro Immobile",
+      "detail": "Lazio"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Robert Lewandowski",
+      "detail": "Bayern Munich"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Kylian Mbappé",
+      "detail": "Paris Saint-Germain"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Wissam Ben Yedder",
+      "detail": "Monaco"
+    }
+  ],
+  "transfers": [
+    [
+      "Eden Hazard",
+      "Chelsea",
+      "Real Madrid"
+    ],
+    [
+      "Antoine Griezmann",
+      "Atlético Madrid",
+      "Barcelona"
+    ],
+    [
+      "Frenkie de Jong",
+      "Ajax",
+      "Barcelona"
+    ],
+    [
+      "João Félix",
+      "Benfica",
+      "Atlético Madrid"
+    ],
+    [
+      "Matthijs de Ligt",
+      "Ajax",
+      "Juventus"
+    ],
+    [
+      "Romelu Lukaku",
+      "Manchester United",
+      "Inter"
+    ],
+    [
+      "Harry Maguire",
+      "Leicester City",
+      "Manchester United"
+    ]
+  ],
+  "ucl": {
+    "winner": "Bayern Munich",
+    "runnerUp": "Paris Saint-Germain",
+    "score": "Bayern Munich 1–0 Paris Saint-Germain",
+    "venue": "Estádio da Luz, Lisbon",
+    "winnerCore": {
+      "s": [
+        "Robert Lewandowski",
+        "Manuel Neuer"
+      ],
+      "a": [
+        "Thomas Müller",
+        "Joshua Kimmich",
+        "Serge Gnabry",
+        "Alphonso Davies",
+        "Thiago"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Neymar",
+        "Kylian Mbappé"
+      ],
+      "a": [
+        "Ángel Di María",
+        "Marquinhos",
+        "Thiago Silva",
+        "Keylor Navas"
+      ]
+    }
+  },
+  "leagues": {
+    "Premier League": [
+      {
+        "position": 1,
+        "name": "Liverpool",
+        "tiers": {
+          "s": [
+            "Virgil van Dijk",
+            "Mohamed Salah"
+          ],
+          "a": [
+            "Sadio Mané",
+            "Jordan Henderson",
+            "Alisson"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Manchester City",
+        "tiers": {
+          "s": [
+            "Kevin De Bruyne",
+            "Raheem Sterling"
+          ],
+          "a": [
+            "Sergio Agüero",
+            "Bernardo Silva",
+            "Ederson"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Manchester United",
+        "tiers": {
+          "s": [
+            "Bruno Fernandes",
+            "Marcus Rashford"
+          ],
+          "a": [
+            "Anthony Martial",
+            "Harry Maguire",
+            "David de Gea"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Chelsea",
+        "tiers": {
+          "s": [
+            "Mason Mount",
+            "Tammy Abraham"
+          ],
+          "a": [
+            "Christian Pulisic",
+            "N’Golo Kanté",
+            "César Azpilicueta"
+          ]
+        }
+      }
+    ],
+    "La Liga": [
+      {
+        "position": 1,
+        "name": "Real Madrid",
+        "tiers": {
+          "s": [
+            "Karim Benzema",
+            "Sergio Ramos"
+          ],
+          "a": [
+            "Thibaut Courtois",
+            "Casemiro",
+            "Toni Kroos"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Barcelona",
+        "tiers": {
+          "s": [
+            "Lionel Messi",
+            "Luis Suárez"
+          ],
+          "a": [
+            "Marc-André ter Stegen",
+            "Sergio Busquets",
+            "Frenkie de Jong"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Atlético Madrid",
+        "tiers": {
+          "s": [
+            "Jan Oblak",
+            "Saúl Ñíguez"
+          ],
+          "a": [
+            "Koke",
+            "Álvaro Morata",
+            "José Giménez"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Sevilla",
+        "tiers": {
+          "s": [
+            "Éver Banega",
+            "Lucas Ocampos"
+          ],
+          "a": [
+            "Jesús Navas",
+            "Jules Koundé",
+            "Diego Carlos"
+          ]
+        }
+      }
+    ],
+    "Serie A": [
+      {
+        "position": 1,
+        "name": "Juventus",
+        "tiers": {
+          "s": [
+            "Cristiano Ronaldo",
+            "Paulo Dybala"
+          ],
+          "a": [
+            "Matthijs de Ligt",
+            "Leonardo Bonucci",
+            "Wojciech Szczęsny"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Inter",
+        "tiers": {
+          "s": [
+            "Romelu Lukaku",
+            "Lautaro Martínez"
+          ],
+          "a": [
+            "Samir Handanović",
+            "Nicolò Barella",
+            "Milan Škriniar"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Atalanta",
+        "tiers": {
+          "s": [
+            "Papu Gómez",
+            "Josip Iličić"
+          ],
+          "a": [
+            "Duván Zapata",
+            "Robin Gosens",
+            "Marten de Roon"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Lazio",
+        "tiers": {
+          "s": [
+            "Ciro Immobile",
+            "Luis Alberto"
+          ],
+          "a": [
+            "Sergej Milinković-Savić",
+            "Francesco Acerbi",
+            "Thomas Strakosha"
+          ]
+        }
+      }
+    ],
+    "Bundesliga": [
+      {
+        "position": 1,
+        "name": "Bayern Munich",
+        "tiers": {
+          "s": [
+            "Robert Lewandowski",
+            "Thomas Müller"
+          ],
+          "a": [
+            "Joshua Kimmich",
+            "Serge Gnabry",
+            "Manuel Neuer"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Borussia Dortmund",
+        "tiers": {
+          "s": [
+            "Jadon Sancho",
+            "Erling Haaland"
+          ],
+          "a": [
+            "Marco Reus",
+            "Raphaël Guerreiro",
+            "Mats Hummels"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "RB Leipzig",
+        "tiers": {
+          "s": [
+            "Timo Werner",
+            "Marcel Sabitzer"
+          ],
+          "a": [
+            "Dayot Upamecano",
+            "Christopher Nkunku",
+            "Péter Gulácsi"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Borussia Mönchengladbach",
+        "tiers": {
+          "s": [
+            "Marcus Thuram",
+            "Alassane Pléa"
+          ],
+          "a": [
+            "Yann Sommer",
+            "Denis Zakaria",
+            "Lars Stindl"
+          ]
+        }
+      }
+    ],
+    "Ligue 1": [
+      {
+        "position": 1,
+        "name": "Paris Saint-Germain",
+        "tiers": {
+          "s": [
+            "Kylian Mbappé",
+            "Neymar"
+          ],
+          "a": [
+            "Ángel Di María",
+            "Marco Verratti",
+            "Marquinhos"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Marseille",
+        "tiers": {
+          "s": [
+            "Dimitri Payet",
+            "Steve Mandanda"
+          ],
+          "a": [
+            "Duje Ćaleta-Car",
+            "Morgan Sanson",
+            "Darío Benedetto"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Rennes",
+        "tiers": {
+          "s": [
+            "Eduardo Camavinga",
+            "M’Baye Niang"
+          ],
+          "a": [
+            "Raphinha",
+            "Benjamin Bourigeaud",
+            "Édouard Mendy"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Lille",
+        "tiers": {
+          "s": [
+            "Victor Osimhen",
+            "Jonathan Ikoné"
+          ],
+          "a": [
+            "Renato Sanches",
+            "José Fonte",
+            "Mike Maignan"
+          ]
+        }
+      }
+    ]
+  },
+  "ballonDorNote": "No Ballon d’Or was awarded during the pandemic."
+}

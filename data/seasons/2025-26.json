@@ -1,0 +1,488 @@
+{
+  "id": "2025-26",
+  "year": 2025,
+  "title": "PSG Retain, Arsenal Arrive",
+  "dek": "Arsenal return to the top in England, PSG retain the Champions League on penalties, Barcelona hold Spain, Bayern run away with Germany, and the 2026 World Cup waits for the summer.",
+  "tags": [
+    "PSG retained Europe",
+    "Arsenal champions",
+    "Barça again",
+    "World Cup next"
+  ],
+  "storylines": [
+    "Paris Saint-Germain become the first club since Real Madrid to retain the Champions League.",
+    "Arsenal win the Premier League and reach their first Champions League final since 2006.",
+    "Barcelona hold off Real Madrid in La Liga while Lamine Yamal becomes one of the face players of the era.",
+    "Bayern dominate the Bundesliga again behind Harry Kane and Michael Olise.",
+    "Como qualify for the Champions League in one of Italy’s strangest modern top-four stories.",
+    "The season pauses before the expanded 2026 World Cup in North America."
+  ],
+  "international": {
+    "year": 2026,
+    "type": "World Cup",
+    "status": "Summer 2026",
+    "note": "Coming soon"
+  },
+  "ballonDor": [],
+  "goldenBoots": [
+    {
+      "comp": "European Golden Shoe",
+      "winner": "Harry Kane",
+      "detail": "Bayern Munich"
+    },
+    {
+      "comp": "Premier League",
+      "winner": "Erling Haaland",
+      "detail": "Manchester City"
+    },
+    {
+      "comp": "La Liga",
+      "winner": "Kylian Mbappé",
+      "detail": "Real Madrid"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Lautaro Martínez",
+      "detail": "Inter"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Harry Kane",
+      "detail": "Bayern Munich"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Joaquín Panichelli",
+      "detail": "Strasbourg"
+    }
+  ],
+  "transfers": [
+    [
+      "Viktor Gyökeres",
+      "Sporting CP",
+      "Arsenal"
+    ],
+    [
+      "Benjamin Šeško",
+      "RB Leipzig",
+      "Manchester United"
+    ],
+    [
+      "Luis Díaz",
+      "Liverpool",
+      "Bayern Munich"
+    ],
+    [
+      "Florian Wirtz",
+      "Bayer Leverkusen",
+      "Liverpool"
+    ],
+    [
+      "Hugo Ekitiké",
+      "Eintracht Frankfurt",
+      "Liverpool"
+    ],
+    [
+      "Bryan Mbeumo",
+      "Brentford",
+      "Manchester United"
+    ],
+    [
+      "Rasmus Højlund",
+      "Manchester United",
+      "Napoli"
+    ],
+    [
+      "Luka Modrić",
+      "Real Madrid",
+      "AC Milan"
+    ]
+  ],
+  "ucl": {
+    "winner": "Paris Saint-Germain",
+    "runnerUp": "Arsenal",
+    "score": "Paris Saint-Germain 1 - 1 Arsenal, Paris Saint-Germain won 4 - 3 on penalties",
+    "venue": "Puskás Aréna, Budapest",
+    "winnerCore": {
+      "s": [
+        "Ousmane Dembélé",
+        "Vitinha"
+      ],
+      "a": [
+        "Khvicha Kvaratskhelia",
+        "Achraf Hakimi",
+        "Nuno Mendes",
+        "Gianluigi Donnarumma",
+        "Marquinhos",
+        "João Neves"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Declan Rice",
+        "Bukayo Saka"
+      ],
+      "a": [
+        "Kai Havertz",
+        "William Saliba",
+        "Gabriel Magalhães",
+        "David Raya",
+        "Martin Ødegaard",
+        "Jurrien Timber"
+      ]
+    }
+  },
+  "leagues": {
+    "Premier League": [
+      {
+        "position": 1,
+        "name": "Arsenal",
+        "tiers": {
+          "s": [
+            "Bukayo Saka",
+            "Declan Rice"
+          ],
+          "a": [
+            "Martin Ødegaard",
+            "William Saliba",
+            "Gabriel Magalhães",
+            "David Raya",
+            "Kai Havertz",
+            "Viktor Gyökeres"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Manchester City",
+        "tiers": {
+          "s": [
+            "Erling Haaland",
+            "Phil Foden"
+          ],
+          "a": [
+            "Rodri",
+            "Rúben Dias",
+            "Bernardo Silva",
+            "Joško Gvardiol",
+            "Omar Marmoush"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Manchester United",
+        "tiers": {
+          "s": [
+            "Bruno Fernandes",
+            "Benjamin Šeško"
+          ],
+          "a": [
+            "Bryan Mbeumo",
+            "Kobbie Mainoo",
+            "Lisandro Martínez",
+            "Amad Diallo",
+            "Matheus Cunha"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Aston Villa",
+        "tiers": {
+          "s": [
+            "Ollie Watkins",
+            "Morgan Rogers"
+          ],
+          "a": [
+            "Emiliano Martínez",
+            "Youri Tielemans",
+            "Pau Torres",
+            "John McGinn",
+            "Amadou Onana"
+          ]
+        }
+      }
+    ],
+    "La Liga": [
+      {
+        "position": 1,
+        "name": "Barcelona",
+        "tiers": {
+          "s": [
+            "Lamine Yamal",
+            "Pedri"
+          ],
+          "a": [
+            "Raphinha",
+            "Robert Lewandowski",
+            "Frenkie de Jong",
+            "Jules Koundé",
+            "Pau Cubarsí"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Real Madrid",
+        "tiers": {
+          "s": [
+            "Kylian Mbappé",
+            "Jude Bellingham"
+          ],
+          "a": [
+            "Vinícius Júnior",
+            "Federico Valverde",
+            "Thibaut Courtois",
+            "Aurélien Tchouaméni",
+            "Antonio Rüdiger"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Villarreal",
+        "tiers": {
+          "s": [
+            "Gerard Moreno",
+            "Ayoze Pérez"
+          ],
+          "a": [
+            "Dani Parejo",
+            "Santi Comesaña",
+            "Pape Gueye",
+            "Luiz Júnior"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Atlético Madrid",
+        "tiers": {
+          "s": [
+            "Julián Álvarez",
+            "Antoine Griezmann"
+          ],
+          "a": [
+            "Jan Oblak",
+            "Marcos Llorente",
+            "José María Giménez",
+            "Alexander Sørloth",
+            "Pablo Barrios"
+          ]
+        }
+      }
+    ],
+    "Serie A": [
+      {
+        "position": 1,
+        "name": "Inter",
+        "tiers": {
+          "s": [
+            "Lautaro Martínez",
+            "Nicolò Barella"
+          ],
+          "a": [
+            "Federico Dimarco",
+            "Alessandro Bastoni",
+            "Hakan Çalhanoğlu",
+            "Marcus Thuram",
+            "Yann Sommer"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Napoli",
+        "tiers": {
+          "s": [
+            "Scott McTominay",
+            "Rasmus Højlund"
+          ],
+          "a": [
+            "Giovanni Di Lorenzo",
+            "Frank Anguissa",
+            "Matteo Politano",
+            "Alessandro Buongiorno",
+            "Stanislav Lobotka"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Roma",
+        "tiers": {
+          "s": [
+            "Paulo Dybala",
+            "Matías Soulé"
+          ],
+          "a": [
+            "Gianluca Mancini",
+            "Evan Ndicka",
+            "Bryan Cristante",
+            "Artem Dovbyk",
+            "Mile Svilar"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Como",
+        "tiers": {
+          "s": [
+            "Nico Paz",
+            "Assane Diao"
+          ],
+          "a": [
+            "Patrick Cutrone",
+            "Lucas Da Cunha",
+            "Máximo Perrone",
+            "Jean Butez",
+            "Álvaro Morata"
+          ]
+        }
+      }
+    ],
+    "Bundesliga": [
+      {
+        "position": 1,
+        "name": "Bayern Munich",
+        "tiers": {
+          "s": [
+            "Harry Kane",
+            "Michael Olise"
+          ],
+          "a": [
+            "Jamal Musiala",
+            "Joshua Kimmich",
+            "Luis Díaz",
+            "Dayot Upamecano",
+            "Manuel Neuer"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Borussia Dortmund",
+        "tiers": {
+          "s": [
+            "Serhou Guirassy",
+            "Karim Adeyemi"
+          ],
+          "a": [
+            "Julian Brandt",
+            "Nico Schlotterbeck",
+            "Gregor Kobel",
+            "Pascal Groß",
+            "Jamie Gittens"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "RB Leipzig",
+        "tiers": {
+          "s": [
+            "Loïs Openda",
+            "David Raum"
+          ],
+          "a": [
+            "Xavi Simons",
+            "Castello Lukeba",
+            "Amadou Haidara",
+            "Péter Gulácsi",
+            "Benjamin Henrichs"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Stuttgart",
+        "tiers": {
+          "s": [
+            "Deniz Undav",
+            "Angelo Stiller"
+          ],
+          "a": [
+            "Enzo Millot",
+            "Alexander Nübel",
+            "Maximilian Mittelstädt",
+            "Atakan Karazor",
+            "Jamie Leweling"
+          ]
+        }
+      }
+    ],
+    "Ligue 1": [
+      {
+        "position": 1,
+        "name": "Paris Saint-Germain",
+        "tiers": {
+          "s": [
+            "Ousmane Dembélé",
+            "Vitinha"
+          ],
+          "a": [
+            "Khvicha Kvaratskhelia",
+            "Achraf Hakimi",
+            "Nuno Mendes",
+            "Bradley Barcola",
+            "João Neves"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Lens",
+        "tiers": {
+          "s": [
+            "Florian Thauvin",
+            "Odsonne Édouard"
+          ],
+          "a": [
+            "Hervé Koffi",
+            "Facundo Medina",
+            "Adrien Thomasson",
+            "Neil El Aynaoui",
+            "Wesley Saïd"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Lyon",
+        "tiers": {
+          "s": [
+            "Afonso Moreira",
+            "Corentin Tolisso"
+          ],
+          "a": [
+            "Pavel Šulc",
+            "Nicolás Tagliafico",
+            "Malick Fofana",
+            "Moussa Niakhaté",
+            "Lucas Perri"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Lille",
+        "tiers": {
+          "s": [
+            "Hákon Haraldsson",
+            "Ngal’ayel Mukau"
+          ],
+          "a": [
+            "Jonathan David",
+            "Benjamin André",
+            "Bafodé Diakité",
+            "Aïssa Mandi",
+            "Rémy Cabella"
+          ]
+        }
+      }
+    ]
+  },
+  "ballonDorNote": "The 2026 Ballon d’Or will be announced Monday, October 26, 2026."
+}

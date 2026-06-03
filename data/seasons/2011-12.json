@@ -1,0 +1,520 @@
+{
+  "id": "2011-12",
+  "year": 2011,
+  "title": "Messi 73, Madrid 100",
+  "dek": "Real Madrid produce a 100-point league season, Messi reaches a statistical peak, City win the Premier League on goal difference, Chelsea steal Europe, and Spain complete the international three-peat.",
+  "tags": [
+    "Madrid 100 points",
+    "Messi 73",
+    "Agüero Moment",
+    "Chelsea Munich"
+  ],
+  "storylines": [
+    "Real Madrid win La Liga with 100 points and 121 goals, breaking Barcelona’s domestic grip.",
+    "Manchester City win the Premier League on the final day through Agüero’s stoppage-time goal.",
+    "Chelsea survive Barcelona and Bayern to win their first Champions League.",
+    "Spain win Euro 2012, adding to Euro 2008 and the 2010 World Cup.",
+    "Borussia Dortmund complete a domestic double in Germany."
+  ],
+  "ballonDor": [
+    {
+      "rank": 1,
+      "player": "Lionel Messi",
+      "club": "Barcelona"
+    },
+    {
+      "rank": 2,
+      "player": "Cristiano Ronaldo",
+      "club": "Real Madrid"
+    },
+    {
+      "rank": 3,
+      "player": "Andrés Iniesta",
+      "club": "Barcelona"
+    }
+  ],
+  "goldenBoots": [
+    {
+      "comp": "European Golden Shoe",
+      "winner": "Lionel Messi",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Premier League",
+      "winner": "Robin van Persie",
+      "detail": "Arsenal"
+    },
+    {
+      "comp": "La Liga",
+      "winner": "Lionel Messi",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Zlatan Ibrahimović",
+      "detail": "AC Milan"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Klaas-Jan Huntelaar",
+      "detail": "Schalke 04"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Olivier Giroud",
+      "detail": "Montpellier"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Nenê",
+      "detail": "Paris Saint-Germain"
+    }
+  ],
+  "transfers": [
+    [
+      "Sergio Agüero",
+      "Atlético Madrid",
+      "Manchester City"
+    ],
+    [
+      "Cesc Fàbregas",
+      "Arsenal",
+      "Barcelona"
+    ],
+    [
+      "Alexis Sánchez",
+      "Udinese",
+      "Barcelona"
+    ],
+    [
+      "Juan Mata",
+      "Valencia",
+      "Chelsea"
+    ],
+    [
+      "Andrea Pirlo",
+      "AC Milan",
+      "Juventus"
+    ],
+    [
+      "Manuel Neuer",
+      "Schalke 04",
+      "Bayern Munich"
+    ],
+    [
+      "Arturo Vidal",
+      "Bayer Leverkusen",
+      "Juventus"
+    ],
+    [
+      "Radamel Falcao",
+      "Porto",
+      "Atlético Madrid"
+    ]
+  ],
+  "ucl": {
+    "winner": "Chelsea",
+    "runnerUp": "Bayern Munich",
+    "score": "Chelsea 1–1 Bayern Munich, Chelsea won 4–3 on penalties",
+    "venue": "Allianz Arena, Munich",
+    "winnerCore": {
+      "s": [
+        "Didier Drogba",
+        "Petr Čech"
+      ],
+      "a": [
+        "Frank Lampard",
+        "John Terry",
+        "Ashley Cole",
+        "Juan Mata",
+        "Ramires"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Arjen Robben",
+        "Franck Ribéry",
+        "Mario Gómez"
+      ],
+      "a": [
+        "Thomas Müller",
+        "Bastian Schweinsteiger",
+        "Philipp Lahm",
+        "Manuel Neuer"
+      ]
+    }
+  },
+  "leagues": {
+    "Premier League": [
+      {
+        "position": 1,
+        "name": "Manchester City",
+        "tiers": {
+          "s": [
+            "Sergio Agüero",
+            "David Silva",
+            "Yaya Touré"
+          ],
+          "a": [
+            "Vincent Kompany",
+            "Joe Hart",
+            "Edin Džeko",
+            "Mario Balotelli",
+            "Samir Nasri"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Manchester United",
+        "tiers": {
+          "s": [
+            "Wayne Rooney",
+            "Antonio Valencia"
+          ],
+          "a": [
+            "Paul Scholes",
+            "Ryan Giggs",
+            "Patrice Evra",
+            "Rio Ferdinand",
+            "David de Gea"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Arsenal",
+        "tiers": {
+          "s": [
+            "Robin van Persie",
+            "Mikel Arteta"
+          ],
+          "a": [
+            "Alex Song",
+            "Theo Walcott",
+            "Laurent Koscielny",
+            "Wojciech Szczęsny"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Tottenham Hotspur",
+        "tiers": {
+          "s": [
+            "Gareth Bale",
+            "Luka Modrić"
+          ],
+          "a": [
+            "Rafael van der Vaart",
+            "Emmanuel Adebayor",
+            "Scott Parker",
+            "Ledley King"
+          ]
+        }
+      }
+    ],
+    "La Liga": [
+      {
+        "position": 1,
+        "name": "Real Madrid",
+        "tiers": {
+          "s": [
+            "Cristiano Ronaldo",
+            "Karim Benzema",
+            "Mesut Özil"
+          ],
+          "a": [
+            "Xabi Alonso",
+            "Sergio Ramos",
+            "Iker Casillas",
+            "Ángel Di María",
+            "Marcelo"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Barcelona",
+        "tiers": {
+          "s": [
+            "Lionel Messi",
+            "Xavi",
+            "Andrés Iniesta"
+          ],
+          "a": [
+            "Sergio Busquets",
+            "Dani Alves",
+            "Gerard Piqué",
+            "Cesc Fàbregas"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Valencia",
+        "tiers": {
+          "s": [
+            "Roberto Soldado",
+            "Jordi Alba"
+          ],
+          "a": [
+            "Éver Banega",
+            "Adil Rami",
+            "Sofiane Feghouli",
+            "Diego Alves"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Málaga",
+        "tiers": {
+          "s": [
+            "Santi Cazorla",
+            "Isco"
+          ],
+          "a": [
+            "Joaquín",
+            "Jérémy Toulalan",
+            "Salomón Rondón",
+            "Willy Caballero"
+          ]
+        }
+      }
+    ],
+    "Serie A": [
+      {
+        "position": 1,
+        "name": "Juventus",
+        "tiers": {
+          "s": [
+            "Andrea Pirlo",
+            "Gianluigi Buffon"
+          ],
+          "a": [
+            "Giorgio Chiellini",
+            "Claudio Marchisio",
+            "Arturo Vidal",
+            "Mirko Vučinić"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "AC Milan",
+        "tiers": {
+          "s": [
+            "Zlatan Ibrahimović",
+            "Thiago Silva"
+          ],
+          "a": [
+            "Antonio Nocerino",
+            "Kevin-Prince Boateng",
+            "Mark van Bommel",
+            "Robinho"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Udinese",
+        "tiers": {
+          "s": [
+            "Antonio Di Natale",
+            "Samir Handanović"
+          ],
+          "a": [
+            "Mauricio Isla",
+            "Kwadwo Asamoah",
+            "Mehdi Benatia",
+            "Pablo Armero"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Lazio",
+        "tiers": {
+          "s": [
+            "Miroslav Klose",
+            "Hernanes"
+          ],
+          "a": [
+            "Stefano Mauri",
+            "Federico Marchetti",
+            "Cristian Ledesma",
+            "Senad Lulić"
+          ]
+        }
+      }
+    ],
+    "Bundesliga": [
+      {
+        "position": 1,
+        "name": "Borussia Dortmund",
+        "tiers": {
+          "s": [
+            "Robert Lewandowski",
+            "Shinji Kagawa"
+          ],
+          "a": [
+            "Mats Hummels",
+            "Mario Götze",
+            "İlkay Gündoğan",
+            "Jakub Błaszczykowski",
+            "Roman Weidenfeller"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Bayern Munich",
+        "tiers": {
+          "s": [
+            "Mario Gómez",
+            "Franck Ribéry"
+          ],
+          "a": [
+            "Arjen Robben",
+            "Thomas Müller",
+            "Philipp Lahm",
+            "Bastian Schweinsteiger",
+            "Manuel Neuer"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Schalke 04",
+        "tiers": {
+          "s": [
+            "Klaas-Jan Huntelaar",
+            "Raúl"
+          ],
+          "a": [
+            "Julian Draxler",
+            "Benedikt Höwedes",
+            "Jefferson Farfán",
+            "Lewis Holtby"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Borussia Mönchengladbach",
+        "tiers": {
+          "s": [
+            "Marco Reus",
+            "Juan Arango"
+          ],
+          "a": [
+            "Marc-André ter Stegen",
+            "Patrick Herrmann",
+            "Tony Jantschke",
+            "Dante"
+          ]
+        }
+      }
+    ],
+    "Ligue 1": [
+      {
+        "position": 1,
+        "name": "Montpellier",
+        "tiers": {
+          "s": [
+            "Olivier Giroud",
+            "Younès Belhanda"
+          ],
+          "a": [
+            "Mapou Yanga-Mbiwa",
+            "Rémy Cabella",
+            "Henri Bedimo",
+            "Vitorino Hilton"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Paris Saint-Germain",
+        "tiers": {
+          "s": [
+            "Nenê",
+            "Javier Pastore"
+          ],
+          "a": [
+            "Thiago Motta",
+            "Kevin Gameiro",
+            "Mamadou Sakho",
+            "Salvatore Sirigu"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Lille",
+        "tiers": {
+          "s": [
+            "Eden Hazard",
+            "Joe Cole"
+          ],
+          "a": [
+            "Mathieu Debuchy",
+            "Rio Mavuba",
+            "Dimitri Payet",
+            "Mickaël Landreau"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Lyon",
+        "tiers": {
+          "s": [
+            "Hugo Lloris",
+            "Bafétimbi Gomis"
+          ],
+          "a": [
+            "Lisandro López",
+            "Maxime Gonalons",
+            "Michel Bastos",
+            "Kim Källström"
+          ]
+        }
+      }
+    ]
+  },
+  "international": {
+    "type": "Euro",
+    "year": 2012,
+    "winner": "Spain",
+    "runnerUp": "Italy",
+    "score": "Spain 4–0 Italy",
+    "winnerCore": {
+      "s": [
+        "Andrés Iniesta",
+        "Xavi",
+        "Iker Casillas"
+      ],
+      "a": [
+        "David Silva",
+        "Sergio Ramos",
+        "Jordi Alba",
+        "Xabi Alonso",
+        "Sergio Busquets"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Andrea Pirlo",
+        "Gianluigi Buffon"
+      ],
+      "a": [
+        "Mario Balotelli",
+        "Daniele De Rossi",
+        "Leonardo Bonucci",
+        "Giorgio Chiellini"
+      ]
+    }
+  }
+}

@@ -1,0 +1,489 @@
+{
+  "id": "2015-16",
+  "year": 2015,
+  "title": "Leicester Break Reality",
+  "dek": "Leicester win the Premier League, Real Madrid begin another Champions League cycle, Barcelona hold Spain, and Portugal win Euro 2016 with Ronaldo injured in the final.",
+  "tags": [
+    "Leicester miracle",
+    "Portugal 2016",
+    "Madrid penalties",
+    "Suárez 40"
+  ],
+  "storylines": [
+    "Leicester City win the Premier League in one of the sport’s great shocks.",
+    "Real Madrid beat Atlético on penalties in Milan to begin a run of three straight Champions League titles.",
+    "Portugal win Euro 2016 despite Ronaldo leaving the final injured.",
+    "Luis Suárez breaks the Messi-Ronaldo European Golden Shoe streak.",
+    "Juventus recover from a poor start to win Serie A again."
+  ],
+  "ballonDor": [
+    {
+      "rank": 1,
+      "player": "Cristiano Ronaldo",
+      "club": "Real Madrid"
+    },
+    {
+      "rank": 2,
+      "player": "Lionel Messi",
+      "club": "Barcelona"
+    },
+    {
+      "rank": 3,
+      "player": "Antoine Griezmann",
+      "club": "Atlético Madrid"
+    }
+  ],
+  "goldenBoots": [
+    {
+      "comp": "European Golden Shoe",
+      "winner": "Luis Suárez",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Premier League",
+      "winner": "Harry Kane",
+      "detail": "Tottenham Hotspur"
+    },
+    {
+      "comp": "La Liga",
+      "winner": "Luis Suárez",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Gonzalo Higuaín",
+      "detail": "Napoli"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Robert Lewandowski",
+      "detail": "Bayern Munich"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Zlatan Ibrahimović",
+      "detail": "Paris Saint-Germain"
+    }
+  ],
+  "transfers": [
+    [
+      "Kevin De Bruyne",
+      "Wolfsburg",
+      "Manchester City"
+    ],
+    [
+      "Raheem Sterling",
+      "Liverpool",
+      "Manchester City"
+    ],
+    [
+      "Anthony Martial",
+      "Monaco",
+      "Manchester United"
+    ],
+    [
+      "Ángel Di María",
+      "Manchester United",
+      "Paris Saint-Germain"
+    ],
+    [
+      "Arturo Vidal",
+      "Juventus",
+      "Bayern Munich"
+    ],
+    [
+      "Roberto Firmino",
+      "Hoffenheim",
+      "Liverpool"
+    ],
+    [
+      "Paulo Dybala",
+      "Palermo",
+      "Juventus"
+    ],
+    [
+      "N’Golo Kanté",
+      "Caen",
+      "Leicester City"
+    ]
+  ],
+  "ucl": {
+    "winner": "Real Madrid",
+    "runnerUp": "Atlético Madrid",
+    "score": "Real Madrid 1–1 Atlético Madrid, Real Madrid won 5–3 on penalties",
+    "venue": "San Siro, Milan",
+    "winnerCore": {
+      "s": [
+        "Cristiano Ronaldo",
+        "Sergio Ramos"
+      ],
+      "a": [
+        "Gareth Bale",
+        "Karim Benzema",
+        "Luka Modrić",
+        "Toni Kroos",
+        "Marcelo"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Antoine Griezmann",
+        "Diego Godín"
+      ],
+      "a": [
+        "Koke",
+        "Gabi",
+        "Jan Oblak",
+        "Saúl Ñíguez",
+        "Fernando Torres"
+      ]
+    }
+  },
+  "leagues": {
+    "Premier League": [
+      {
+        "position": 1,
+        "name": "Leicester City",
+        "tiers": {
+          "s": [
+            "Jamie Vardy",
+            "Riyad Mahrez"
+          ],
+          "a": [
+            "N’Golo Kanté",
+            "Kasper Schmeichel",
+            "Wes Morgan",
+            "Danny Drinkwater"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Arsenal",
+        "tiers": {
+          "s": [
+            "Mesut Özil",
+            "Alexis Sánchez"
+          ],
+          "a": [
+            "Petr Čech",
+            "Laurent Koscielny",
+            "Olivier Giroud"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Tottenham Hotspur",
+        "tiers": {
+          "s": [
+            "Harry Kane",
+            "Dele Alli"
+          ],
+          "a": [
+            "Christian Eriksen",
+            "Hugo Lloris",
+            "Toby Alderweireld"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Manchester City",
+        "tiers": {
+          "s": [
+            "Sergio Agüero",
+            "Kevin De Bruyne"
+          ],
+          "a": [
+            "David Silva",
+            "Yaya Touré",
+            "Vincent Kompany"
+          ]
+        }
+      }
+    ],
+    "La Liga": [
+      {
+        "position": 1,
+        "name": "Barcelona",
+        "tiers": {
+          "s": [
+            "Lionel Messi",
+            "Luis Suárez"
+          ],
+          "a": [
+            "Neymar",
+            "Andrés Iniesta",
+            "Sergio Busquets",
+            "Gerard Piqué"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Real Madrid",
+        "tiers": {
+          "s": [
+            "Cristiano Ronaldo",
+            "Gareth Bale"
+          ],
+          "a": [
+            "Karim Benzema",
+            "Luka Modrić",
+            "Sergio Ramos",
+            "Marcelo"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Atlético Madrid",
+        "tiers": {
+          "s": [
+            "Antoine Griezmann",
+            "Diego Godín"
+          ],
+          "a": [
+            "Jan Oblak",
+            "Koke",
+            "Gabi"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Villarreal",
+        "tiers": {
+          "s": [
+            "Cédric Bakambu",
+            "Bruno Soriano"
+          ],
+          "a": [
+            "Denis Suárez",
+            "Sergio Asenjo",
+            "Mario Gaspar"
+          ]
+        }
+      }
+    ],
+    "Serie A": [
+      {
+        "position": 1,
+        "name": "Juventus",
+        "tiers": {
+          "s": [
+            "Paulo Dybala",
+            "Paul Pogba"
+          ],
+          "a": [
+            "Gianluigi Buffon",
+            "Leonardo Bonucci",
+            "Giorgio Chiellini"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Napoli",
+        "tiers": {
+          "s": [
+            "Gonzalo Higuaín",
+            "Marek Hamšík"
+          ],
+          "a": [
+            "Lorenzo Insigne",
+            "Jorginho",
+            "Kalidou Koulibaly"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Roma",
+        "tiers": {
+          "s": [
+            "Miralem Pjanić",
+            "Mohamed Salah"
+          ],
+          "a": [
+            "Daniele De Rossi",
+            "Radja Nainggolan",
+            "Edin Džeko"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Inter",
+        "tiers": {
+          "s": [
+            "Mauro Icardi",
+            "Samir Handanović"
+          ],
+          "a": [
+            "Ivan Perišić",
+            "João Miranda",
+            "Gary Medel"
+          ]
+        }
+      }
+    ],
+    "Bundesliga": [
+      {
+        "position": 1,
+        "name": "Bayern Munich",
+        "tiers": {
+          "s": [
+            "Robert Lewandowski",
+            "Thomas Müller"
+          ],
+          "a": [
+            "Manuel Neuer",
+            "Philipp Lahm",
+            "Arturo Vidal"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Borussia Dortmund",
+        "tiers": {
+          "s": [
+            "Pierre-Emerick Aubameyang",
+            "Marco Reus"
+          ],
+          "a": [
+            "Henrikh Mkhitaryan",
+            "İlkay Gündoğan",
+            "Mats Hummels"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Bayer Leverkusen",
+        "tiers": {
+          "s": [
+            "Javier Hernández",
+            "Hakan Çalhanoğlu"
+          ],
+          "a": [
+            "Karim Bellarabi",
+            "Bernd Leno",
+            "Jonathan Tah"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Borussia Mönchengladbach",
+        "tiers": {
+          "s": [
+            "Granit Xhaka",
+            "Raffael"
+          ],
+          "a": [
+            "Lars Stindl",
+            "Yann Sommer",
+            "Thorgan Hazard"
+          ]
+        }
+      }
+    ],
+    "Ligue 1": [
+      {
+        "position": 1,
+        "name": "Paris Saint-Germain",
+        "tiers": {
+          "s": [
+            "Zlatan Ibrahimović",
+            "Ángel Di María"
+          ],
+          "a": [
+            "Thiago Silva",
+            "Marco Verratti",
+            "Edinson Cavani"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Lyon",
+        "tiers": {
+          "s": [
+            "Alexandre Lacazette",
+            "Nabil Fekir"
+          ],
+          "a": [
+            "Corentin Tolisso",
+            "Maxime Gonalons",
+            "Anthony Lopes"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Monaco",
+        "tiers": {
+          "s": [
+            "Bernardo Silva",
+            "Fabinho"
+          ],
+          "a": [
+            "Thomas Lemar",
+            "João Moutinho",
+            "Danijel Subašić"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Nice",
+        "tiers": {
+          "s": [
+            "Hatem Ben Arfa",
+            "Valère Germain"
+          ],
+          "a": [
+            "Jean Michaël Seri",
+            "Alassane Pléa",
+            "Yoan Cardinale"
+          ]
+        }
+      }
+    ]
+  },
+  "international": {
+    "type": "Euro",
+    "year": 2016,
+    "winner": "Portugal",
+    "runnerUp": "France",
+    "score": "Portugal 1–0 France",
+    "winnerCore": {
+      "s": [
+        "Cristiano Ronaldo",
+        "Pepe"
+      ],
+      "a": [
+        "Nani",
+        "Rui Patrício",
+        "Renato Sanches",
+        "Raphaël Guerreiro",
+        "Éder"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Antoine Griezmann",
+        "Paul Pogba"
+      ],
+      "a": [
+        "Dimitri Payet",
+        "Hugo Lloris",
+        "Blaise Matuidi",
+        "Olivier Giroud"
+      ]
+    }
+  }
+}

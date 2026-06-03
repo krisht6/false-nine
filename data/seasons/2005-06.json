@@ -1,0 +1,521 @@
+{
+  "id": "2005-06",
+  "year": 2005,
+  "title": "The Last Ronaldinho Summer",
+  "dek": "Ronaldinho’s Barcelona win Europe, Chelsea repeat in England, Juventus are swallowed by Calciopoli, and the 2006 World Cup closes Zidane’s career in chaos.",
+  "tags": [
+    "Ronaldinho peak",
+    "Calciopoli",
+    "Italy 2006",
+    "Chelsea repeat"
+  ],
+  "storylines": [
+    "Barcelona beat Arsenal in Paris and confirm Ronaldinho’s era as the center of European football.",
+    "Chelsea retain the Premier League under José Mourinho with a ruthless defensive core.",
+    "Italy win the World Cup after a final remembered for Zidane, Materazzi, Pirlo and penalties.",
+    "Calciopoli reshapes Italian football: Juventus lose the title and are relegated; Inter are awarded Serie A.",
+    "A young Lionel Messi begins appearing in Barcelona’s first team, while Cristiano Ronaldo is still developing at Manchester United."
+  ],
+  "ballonDor": [
+    {
+      "rank": 1,
+      "player": "Fabio Cannavaro",
+      "club": "Real Madrid"
+    },
+    {
+      "rank": 2,
+      "player": "Gianluigi Buffon",
+      "club": "Juventus"
+    },
+    {
+      "rank": 3,
+      "player": "Thierry Henry",
+      "club": "Arsenal"
+    }
+  ],
+  "goldenBoots": [
+    {
+      "comp": "European Golden Shoe",
+      "winner": "Luca Toni",
+      "detail": "Fiorentina"
+    },
+    {
+      "comp": "Premier League",
+      "winner": "Thierry Henry",
+      "detail": "Arsenal"
+    },
+    {
+      "comp": "La Liga",
+      "winner": "Samuel Eto’o",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Luca Toni",
+      "detail": "Fiorentina"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Miroslav Klose",
+      "detail": "Werder Bremen"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Pedro Pauleta",
+      "detail": "Paris Saint-Germain"
+    }
+  ],
+  "transfers": [
+    [
+      "Michael Essien",
+      "Lyon",
+      "Chelsea"
+    ],
+    [
+      "Edwin van der Sar",
+      "Fulham",
+      "Manchester United"
+    ],
+    [
+      "Park Ji-sung",
+      "PSV",
+      "Manchester United"
+    ],
+    [
+      "Robinho",
+      "Santos",
+      "Real Madrid"
+    ],
+    [
+      "Sergio Ramos",
+      "Sevilla",
+      "Real Madrid"
+    ],
+    [
+      "Luís Figo",
+      "Real Madrid",
+      "Inter"
+    ],
+    [
+      "Patrick Vieira",
+      "Arsenal",
+      "Juventus"
+    ]
+  ],
+  "ucl": {
+    "winner": "Barcelona",
+    "runnerUp": "Arsenal",
+    "score": "Barcelona 2–1 Arsenal",
+    "venue": "Stade de France, Paris",
+    "winnerCore": {
+      "s": [
+        "Ronaldinho",
+        "Samuel Eto’o",
+        "Deco"
+      ],
+      "a": [
+        "Carles Puyol",
+        "Xavi",
+        "Víctor Valdés",
+        "Rafael Márquez",
+        "Giuly"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Thierry Henry",
+        "Cesc Fàbregas"
+      ],
+      "a": [
+        "Jens Lehmann",
+        "Sol Campbell",
+        "Gilberto Silva",
+        "Kolo Touré",
+        "Robert Pirès"
+      ]
+    }
+  },
+  "international": {
+    "type": "World Cup",
+    "year": 2006,
+    "winner": "Italy",
+    "runnerUp": "France",
+    "score": "Italy 1–1 France, Italy won 5–3 on penalties",
+    "winnerCore": {
+      "s": [
+        "Andrea Pirlo",
+        "Fabio Cannavaro",
+        "Gianluigi Buffon"
+      ],
+      "a": [
+        "Francesco Totti",
+        "Gennaro Gattuso",
+        "Marco Materazzi",
+        "Luca Toni",
+        "Alessandro Del Piero"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Zinedine Zidane",
+        "Thierry Henry",
+        "Patrick Vieira"
+      ],
+      "a": [
+        "Claude Makélélé",
+        "Lilian Thuram",
+        "Franck Ribéry",
+        "Fabien Barthez"
+      ]
+    }
+  },
+  "leagues": {
+    "Premier League": [
+      {
+        "position": 1,
+        "name": "Chelsea",
+        "tiers": {
+          "s": [
+            "Frank Lampard",
+            "John Terry",
+            "Didier Drogba"
+          ],
+          "a": [
+            "Petr Čech",
+            "Claude Makélélé",
+            "Michael Essien",
+            "Joe Cole",
+            "Arjen Robben"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Manchester United",
+        "tiers": {
+          "s": [
+            "Wayne Rooney",
+            "Cristiano Ronaldo"
+          ],
+          "a": [
+            "Rio Ferdinand",
+            "Paul Scholes",
+            "Ruud van Nistelrooy",
+            "Edwin van der Sar",
+            "Ryan Giggs"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Liverpool",
+        "tiers": {
+          "s": [
+            "Steven Gerrard",
+            "Xabi Alonso"
+          ],
+          "a": [
+            "Jamie Carragher",
+            "Pepe Reina",
+            "Sami Hyypiä",
+            "Peter Crouch",
+            "Luis García"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Arsenal",
+        "tiers": {
+          "s": [
+            "Thierry Henry",
+            "Cesc Fàbregas"
+          ],
+          "a": [
+            "Jens Lehmann",
+            "Gilberto Silva",
+            "Kolo Touré",
+            "Robert Pirès",
+            "Sol Campbell"
+          ]
+        }
+      }
+    ],
+    "La Liga": [
+      {
+        "position": 1,
+        "name": "Barcelona",
+        "tiers": {
+          "s": [
+            "Ronaldinho",
+            "Samuel Eto’o",
+            "Deco"
+          ],
+          "a": [
+            "Xavi",
+            "Carles Puyol",
+            "Víctor Valdés",
+            "Rafael Márquez",
+            "Giuly"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Real Madrid",
+        "tiers": {
+          "s": [
+            "Zinedine Zidane",
+            "Iker Casillas",
+            "Ronaldo"
+          ],
+          "a": [
+            "Raúl",
+            "Roberto Carlos",
+            "Sergio Ramos",
+            "David Beckham",
+            "Robinho"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Valencia",
+        "tiers": {
+          "s": [
+            "David Villa",
+            "David Albelda"
+          ],
+          "a": [
+            "Santiago Cañizares",
+            "Miguel",
+            "Rubén Baraja",
+            "Pablo Aimar",
+            "Vicente"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Osasuna",
+        "tiers": {
+          "s": [
+            "Patxi Puñal",
+            "Savo Milošević"
+          ],
+          "a": [
+            "Raúl García",
+            "Ludovic Delporte",
+            "Ricardo",
+            "César Cruchaga"
+          ]
+        }
+      }
+    ],
+    "Serie A": [
+      {
+        "position": 1,
+        "name": "Inter",
+        "tiers": {
+          "s": [
+            "Adriano",
+            "Javier Zanetti"
+          ],
+          "a": [
+            "Juan Sebastián Verón",
+            "Esteban Cambiasso",
+            "Walter Samuel",
+            "Julio Cruz",
+            "Dejan Stanković"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Roma",
+        "tiers": {
+          "s": [
+            "Francesco Totti",
+            "Daniele De Rossi"
+          ],
+          "a": [
+            "Simone Perrotta",
+            "Philippe Mexès",
+            "Rodrigo Taddei",
+            "Mancini",
+            "Christian Chivu"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "AC Milan",
+        "tiers": {
+          "s": [
+            "Kaká",
+            "Andrea Pirlo",
+            "Andriy Shevchenko"
+          ],
+          "a": [
+            "Paolo Maldini",
+            "Gennaro Gattuso",
+            "Alessandro Nesta",
+            "Clarence Seedorf",
+            "Dida"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Chievo",
+        "tiers": {
+          "s": [
+            "Sergio Pellissier",
+            "Amauri"
+          ],
+          "a": [
+            "Franco Semioli",
+            "Luciano",
+            "Lorenzo D’Anna",
+            "Simone Tiribocchi"
+          ]
+        }
+      }
+    ],
+    "Bundesliga": [
+      {
+        "position": 1,
+        "name": "Bayern Munich",
+        "tiers": {
+          "s": [
+            "Michael Ballack",
+            "Oliver Kahn"
+          ],
+          "a": [
+            "Roy Makaay",
+            "Bastian Schweinsteiger",
+            "Philipp Lahm",
+            "Zé Roberto",
+            "Lúcio"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Werder Bremen",
+        "tiers": {
+          "s": [
+            "Miroslav Klose",
+            "Johan Micoud"
+          ],
+          "a": [
+            "Torsten Frings",
+            "Tim Borowski",
+            "Ivan Klasnić",
+            "Naldo",
+            "Frank Baumann"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Hamburger SV",
+        "tiers": {
+          "s": [
+            "Rafael van der Vaart",
+            "Sergej Barbarez"
+          ],
+          "a": [
+            "Daniel Van Buyten",
+            "Nigel de Jong",
+            "Mehdi Mahdavikia",
+            "Piotr Trochowski"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Schalke 04",
+        "tiers": {
+          "s": [
+            "Lincoln",
+            "Kevin Kurányi"
+          ],
+          "a": [
+            "Marcelo Bordon",
+            "Mladen Krstajić",
+            "Rafinha",
+            "Frank Rost"
+          ]
+        }
+      }
+    ],
+    "Ligue 1": [
+      {
+        "position": 1,
+        "name": "Lyon",
+        "tiers": {
+          "s": [
+            "Juninho",
+            "Florent Malouda"
+          ],
+          "a": [
+            "Grégory Coupet",
+            "Cris",
+            "Tiago",
+            "Sylvain Wiltord",
+            "Fred"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Bordeaux",
+        "tiers": {
+          "s": [
+            "Jean-Claude Darcheville",
+            "Rio Mavuba"
+          ],
+          "a": [
+            "Ulrich Ramé",
+            "Marouane Chamakh",
+            "Fernando",
+            "David Jemmali"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Lille",
+        "tiers": {
+          "s": [
+            "Mathieu Bodmer",
+            "Kader Keïta"
+          ],
+          "a": [
+            "Jean II Makoun",
+            "Peter Odemwingie",
+            "Grégory Tafforeau",
+            "Tony Sylva"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Lens",
+        "tiers": {
+          "s": [
+            "Seydou Keita",
+            "Daniel Cousin"
+          ],
+          "a": [
+            "Olivier Thomert",
+            "Jussiê",
+            "Vitorino Hilton",
+            "Charles Itandje"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,477 @@
+{
+  "id": "2012-13",
+  "year": 2012,
+  "title": "Bayern Complete the Arc",
+  "dek": "Bayern avenge their home final defeat, Dortmund push gegenpressing into the mainstream, and PSG begin to look like a new European heavyweight.",
+  "tags": [
+    "Bayern treble",
+    "German Wembley",
+    "PSG project",
+    "Messi 91"
+  ],
+  "storylines": [
+    "Bayern Munich win the treble under Jupp Heynckes.",
+    "The Champions League final becomes an all-German match at Wembley.",
+    "Manchester United win Alex Ferguson’s final league title.",
+    "Paris Saint-Germain win Ligue 1 in the first fully visible phase of the QSI project.",
+    "Messi’s 2012 Ballon d’Or season closes a historic scoring year."
+  ],
+  "ballonDor": [
+    {
+      "rank": 1,
+      "player": "Cristiano Ronaldo",
+      "club": "Real Madrid"
+    },
+    {
+      "rank": 2,
+      "player": "Lionel Messi",
+      "club": "Barcelona"
+    },
+    {
+      "rank": 3,
+      "player": "Franck Ribéry",
+      "club": "Bayern Munich"
+    }
+  ],
+  "goldenBoots": [
+    {
+      "comp": "European Golden Shoe",
+      "winner": "Lionel Messi",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Premier League",
+      "winner": "Robin van Persie",
+      "detail": "Manchester United"
+    },
+    {
+      "comp": "La Liga",
+      "winner": "Lionel Messi",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Edinson Cavani",
+      "detail": "Napoli"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Stefan Kießling",
+      "detail": "Bayer Leverkusen"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Zlatan Ibrahimović",
+      "detail": "Paris Saint-Germain"
+    }
+  ],
+  "transfers": [
+    [
+      "Robin van Persie",
+      "Arsenal",
+      "Manchester United"
+    ],
+    [
+      "Eden Hazard",
+      "Lille",
+      "Chelsea"
+    ],
+    [
+      "Thiago Silva",
+      "AC Milan",
+      "Paris Saint-Germain"
+    ],
+    [
+      "Zlatan Ibrahimović",
+      "AC Milan",
+      "Paris Saint-Germain"
+    ],
+    [
+      "Luka Modrić",
+      "Tottenham Hotspur",
+      "Real Madrid"
+    ],
+    [
+      "Marco Reus",
+      "Borussia Mönchengladbach",
+      "Borussia Dortmund"
+    ],
+    [
+      "Javi Martínez",
+      "Athletic Club",
+      "Bayern Munich"
+    ]
+  ],
+  "ucl": {
+    "winner": "Bayern Munich",
+    "runnerUp": "Borussia Dortmund",
+    "score": "Bayern Munich 2–1 Borussia Dortmund",
+    "venue": "Wembley Stadium, London",
+    "winnerCore": {
+      "s": [
+        "Arjen Robben",
+        "Franck Ribéry",
+        "Bastian Schweinsteiger"
+      ],
+      "a": [
+        "Thomas Müller",
+        "Mario Mandžukić",
+        "Philipp Lahm",
+        "Manuel Neuer",
+        "Javi Martínez"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Robert Lewandowski",
+        "Marco Reus"
+      ],
+      "a": [
+        "Mats Hummels",
+        "İlkay Gündoğan",
+        "Mario Götze",
+        "Roman Weidenfeller"
+      ]
+    }
+  },
+  "leagues": {
+    "Premier League": [
+      {
+        "position": 1,
+        "name": "Manchester United",
+        "tiers": {
+          "s": [
+            "Robin van Persie",
+            "Wayne Rooney"
+          ],
+          "a": [
+            "Michael Carrick",
+            "Rio Ferdinand",
+            "Patrice Evra",
+            "David de Gea",
+            "Ryan Giggs"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Manchester City",
+        "tiers": {
+          "s": [
+            "Sergio Agüero",
+            "Yaya Touré"
+          ],
+          "a": [
+            "David Silva",
+            "Vincent Kompany",
+            "Joe Hart",
+            "Carlos Tevez"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Chelsea",
+        "tiers": {
+          "s": [
+            "Juan Mata",
+            "Eden Hazard"
+          ],
+          "a": [
+            "Frank Lampard",
+            "Petr Čech",
+            "Oscar",
+            "David Luiz",
+            "Branislav Ivanović"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Arsenal",
+        "tiers": {
+          "s": [
+            "Santi Cazorla",
+            "Theo Walcott"
+          ],
+          "a": [
+            "Mikel Arteta",
+            "Jack Wilshere",
+            "Laurent Koscielny",
+            "Olivier Giroud"
+          ]
+        }
+      }
+    ],
+    "La Liga": [
+      {
+        "position": 1,
+        "name": "Barcelona",
+        "tiers": {
+          "s": [
+            "Lionel Messi",
+            "Xavi",
+            "Andrés Iniesta"
+          ],
+          "a": [
+            "Sergio Busquets",
+            "Cesc Fàbregas",
+            "Gerard Piqué",
+            "Dani Alves",
+            "Jordi Alba"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Real Madrid",
+        "tiers": {
+          "s": [
+            "Cristiano Ronaldo",
+            "Mesut Özil"
+          ],
+          "a": [
+            "Karim Benzema",
+            "Sergio Ramos",
+            "Xabi Alonso",
+            "Ángel Di María",
+            "Iker Casillas"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Atlético Madrid",
+        "tiers": {
+          "s": [
+            "Radamel Falcao",
+            "Diego Godín"
+          ],
+          "a": [
+            "Arda Turan",
+            "Koke",
+            "Thibaut Courtois",
+            "Gabi"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Real Sociedad",
+        "tiers": {
+          "s": [
+            "Antoine Griezmann",
+            "Carlos Vela"
+          ],
+          "a": [
+            "Xabi Prieto",
+            "Asier Illarramendi",
+            "Claudio Bravo",
+            "Iñigo Martínez"
+          ]
+        }
+      }
+    ],
+    "Serie A": [
+      {
+        "position": 1,
+        "name": "Juventus",
+        "tiers": {
+          "s": [
+            "Andrea Pirlo",
+            "Arturo Vidal"
+          ],
+          "a": [
+            "Gianluigi Buffon",
+            "Giorgio Chiellini",
+            "Claudio Marchisio",
+            "Paul Pogba",
+            "Mirko Vučinić"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Napoli",
+        "tiers": {
+          "s": [
+            "Edinson Cavani",
+            "Marek Hamšík"
+          ],
+          "a": [
+            "Ezequiel Lavezzi",
+            "Christian Maggio",
+            "Gökhan İnler",
+            "Morgan De Sanctis"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "AC Milan",
+        "tiers": {
+          "s": [
+            "Stephan El Shaarawy",
+            "Mario Balotelli"
+          ],
+          "a": [
+            "Riccardo Montolivo",
+            "Philippe Mexès",
+            "Kevin-Prince Boateng",
+            "Christian Abbiati"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Fiorentina",
+        "tiers": {
+          "s": [
+            "Stevan Jovetić",
+            "Borja Valero"
+          ],
+          "a": [
+            "Juan Cuadrado",
+            "David Pizarro",
+            "Manuel Pasqual",
+            "Gonzalo Rodríguez"
+          ]
+        }
+      }
+    ],
+    "Bundesliga": [
+      {
+        "position": 1,
+        "name": "Bayern Munich",
+        "tiers": {
+          "s": [
+            "Franck Ribéry",
+            "Bastian Schweinsteiger",
+            "Arjen Robben"
+          ],
+          "a": [
+            "Thomas Müller",
+            "Mario Mandžukić",
+            "Philipp Lahm",
+            "Manuel Neuer",
+            "Javi Martínez"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Borussia Dortmund",
+        "tiers": {
+          "s": [
+            "Robert Lewandowski",
+            "Marco Reus"
+          ],
+          "a": [
+            "Mario Götze",
+            "Mats Hummels",
+            "İlkay Gündoğan",
+            "Jakub Błaszczykowski"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Bayer Leverkusen",
+        "tiers": {
+          "s": [
+            "Stefan Kießling",
+            "Lars Bender"
+          ],
+          "a": [
+            "André Schürrle",
+            "Gonzalo Castro",
+            "Bernd Leno",
+            "Simon Rolfes"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Schalke 04",
+        "tiers": {
+          "s": [
+            "Julian Draxler",
+            "Klaas-Jan Huntelaar"
+          ],
+          "a": [
+            "Benedikt Höwedes",
+            "Jefferson Farfán",
+            "Roman Neustädter",
+            "Timo Hildebrand"
+          ]
+        }
+      }
+    ],
+    "Ligue 1": [
+      {
+        "position": 1,
+        "name": "Paris Saint-Germain",
+        "tiers": {
+          "s": [
+            "Zlatan Ibrahimović",
+            "Thiago Silva"
+          ],
+          "a": [
+            "Blaise Matuidi",
+            "Javier Pastore",
+            "Marco Verratti",
+            "Salvatore Sirigu"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Marseille",
+        "tiers": {
+          "s": [
+            "André-Pierre Gignac",
+            "Mathieu Valbuena"
+          ],
+          "a": [
+            "Steve Mandanda",
+            "André Ayew",
+            "Nicolas Nkoulou",
+            "Joey Barton"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Lyon",
+        "tiers": {
+          "s": [
+            "Bafétimbi Gomis",
+            "Maxime Gonalons"
+          ],
+          "a": [
+            "Clément Grenier",
+            "Alexandre Lacazette",
+            "Samuel Umtiti",
+            "Rémy Vercoutre"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Nice",
+        "tiers": {
+          "s": [
+            "Dario Cvitanich",
+            "Renato Civelli"
+          ],
+          "a": [
+            "David Ospina",
+            "Éric Bauthéac",
+            "Didier Digard",
+            "Valentin Eysseric"
+          ]
+        }
+      }
+    ]
+  }
+}

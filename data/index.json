@@ -1,0 +1,368 @@
+{
+  "seasons": [
+    {
+      "id": "2005-06",
+      "year": 2005,
+      "title": "The Last Ronaldinho Summer",
+      "dek": "Ronaldinho’s Barcelona win Europe, Chelsea repeat in England, Juventus are swallowed by Calciopoli, and the 2006 World Cup closes Zidane’s career in chaos.",
+      "tags": [
+        "Ronaldinho peak",
+        "Calciopoli",
+        "Italy 2006",
+        "Chelsea repeat"
+      ],
+      "posterWords": [
+        "RONALDINHO",
+        "CALCIOPOLI",
+        "ITALY"
+      ]
+    },
+    {
+      "id": "2006-07",
+      "year": 2006,
+      "title": "United Return, Milan Revenge",
+      "dek": "Cristiano Ronaldo becomes a superstar in England, Manchester United take back the league, and Milan avenge Istanbul by beating Liverpool in Athens.",
+      "tags": [
+        "Ronaldo breakout",
+        "Milan revenge",
+        "Inter dominance",
+        "La Liga tiebreak drama"
+      ],
+      "posterWords": [
+        "RONALDO",
+        "MILAN",
+        "INTER"
+      ]
+    },
+    {
+      "id": "2007-08",
+      "year": 2007,
+      "title": "Ronaldo’s First Crown",
+      "dek": "Cristiano Ronaldo wins everything with Manchester United, Spain finally begin their international dynasty, and English clubs dominate Europe.",
+      "tags": [
+        "Ronaldo Ballon d’Or",
+        "United-Chelsea final",
+        "Spain Euro 2008"
+      ],
+      "posterWords": [
+        "RONALDO",
+        "SPAIN",
+        "MOSCOW"
+      ]
+    },
+    {
+      "id": "2008-09",
+      "year": 2008,
+      "title": "Pep Changes the Game",
+      "dek": "Guardiola’s Barcelona win the treble, Messi moves into the center of the story, and Manchester City’s takeover changes the Premier League’s future.",
+      "tags": [
+        "Barcelona treble",
+        "Messi rise",
+        "City takeover",
+        "United three-peat"
+      ],
+      "posterWords": [
+        "BARÇA",
+        "PEP",
+        "TREBLE"
+      ]
+    },
+    {
+      "id": "2009-10",
+      "year": 2009,
+      "title": "Inter Stop the Future",
+      "dek": "Mourinho’s Inter win the treble, Barcelona and Spain still define the technical direction of football, and Real Madrid begin the new Galáctico project.",
+      "tags": [
+        "Inter treble",
+        "Mourinho masterclass",
+        "Real Madrid rebuild",
+        "Messi Ballon d’Or"
+      ],
+      "posterWords": [
+        "INTER",
+        "MOURINHO",
+        "TREBLE"
+      ]
+    },
+    {
+      "id": "2010-11",
+      "year": 2010,
+      "title": "Barcelona’s Wembley Lesson",
+      "dek": "Messi, Xavi and Iniesta deliver one of the defining Champions League final performances, Dortmund announce a new German wave, and Qatar’s arrival at PSG foreshadows a new power map.",
+      "tags": [
+        "Barcelona Wembley",
+        "Dortmund rise",
+        "Qatar PSG",
+        "Messi Ballon d’Or"
+      ],
+      "posterWords": [
+        "MESSI",
+        "WEMBLEY",
+        "DORTMUND"
+      ]
+    },
+    {
+      "id": "2011-12",
+      "year": 2011,
+      "title": "Messi 73, Madrid 100",
+      "dek": "Real Madrid produce a 100-point league season, Messi reaches a statistical peak, City win the Premier League on goal difference, Chelsea steal Europe, and Spain complete the international three-peat.",
+      "tags": [
+        "Madrid 100 points",
+        "Messi 91 in calendar year",
+        "Agüeroooo",
+        "Chelsea Munich"
+      ],
+      "posterWords": [
+        "MESSI",
+        "MADRID",
+        "MUNICH"
+      ]
+    },
+    {
+      "id": "2012-13",
+      "year": 2012,
+      "title": "Bayern Complete the Arc",
+      "dek": "Bayern avenge their home final defeat, Dortmund push gegenpressing into the mainstream, and PSG begin to look like a new European heavyweight.",
+      "tags": [
+        "Bayern treble",
+        "German Wembley",
+        "PSG project"
+      ],
+      "posterWords": [
+        "BAYERN",
+        "DORTMUND",
+        "WEMBLEY"
+      ]
+    },
+    {
+      "id": "2013-14",
+      "year": 2013,
+      "title": "La Décima Arrives",
+      "dek": "Real Madrid finally win the tenth European Cup, Atlético break the Spain duopoly, Germany win in Brazil, and Suárez nearly drags Liverpool to the league.",
+      "tags": [
+        "La Décima",
+        "Atlético title",
+        "Brazil 2014",
+        "Suárez Liverpool"
+      ],
+      "posterWords": [
+        "DÉCIMA",
+        "ATLETI",
+        "BRAZIL"
+      ]
+    },
+    {
+      "id": "2014-15",
+      "year": 2014,
+      "title": "MSN Treble",
+      "dek": "Barcelona’s Messi-Suárez-Neymar front three win the treble, Chelsea return to the top in England, Juventus reach Berlin, and Ronaldo posts another huge scoring year.",
+      "tags": [
+        "MSN treble",
+        "Chelsea Mourinho",
+        "Juventus Berlin",
+        "Ronaldo 48"
+      ],
+      "posterWords": [
+        "MSN",
+        "CHELSEA",
+        "MESSI"
+      ]
+    },
+{
+"id": "2015-16",
+"year": 2015,
+"title": "Leicester Break Reality",
+"dek": "Leicester win the Premier League against impossible odds, Real Madrid begin another Champions League dynasty, Barcelona remain Spain’s dominant force, and Portugal lift Euro 2016 with Ronaldo watching from the sidelines.",
+"tags": [
+"Leicester miracle",
+"Portugal 2016",
+"Madrid penalties",
+"Suárez 40"
+],
+"posterWords": [
+"LEICESTER",
+"PORTUGAL",
+"MADRID"
+]
+},
+{
+"id": "2016-17",
+"year": 2016,
+"title": "Madrid Go Back-to-Back",
+"dek": "Real Madrid become the first Champions League repeat winners of the modern era, Monaco explode onto the scene behind a teenage Mbappé, Chelsea storm England under Conte, and Europe begins to shift toward a new generation.",
+"tags": [
+"Madrid repeat",
+"Monaco Mbappé",
+"Conte Chelsea",
+"Neymar turning point"
+],
+"posterWords": [
+"MADRID",
+"MONACO",
+"MBAPPÉ"
+]
+},
+{
+  "id": "2017-18",
+  "year": 2017,
+  "title": "Threepeat and Kiev",
+  "dek": "Real Madrid complete the Champions League three-peat, Modrić reaches the Ballon d’Or summit after leading Croatia to the World Cup final, Salah transforms Liverpool, and Manchester City hit 100 points.",
+  "tags": [
+    "Madrid threepeat",
+    "City 100",
+    "Salah Liverpool",
+    "France 2018"
+  ],
+  "posterWords": [
+    "MODRIC",
+    "SALAH",
+    "THREEPEAT"
+  ]
+},
+{
+  "id": "2018-19",
+  "year": 2018,
+  "title": "Liverpool Finish the Climb",
+  "dek": "Liverpool win Europe after a 97-point league season, Ajax captivate the continent with a fearless young side, Manchester City complete a domestic treble, and Anfield hosts one of football’s greatest comebacks.",
+  "tags": [
+    "Liverpool sixth",
+    "City domestic treble",
+    "Ajax run",
+    "Anfield comeback"
+  ],
+  "posterWords": [
+    "LIVERPOOL",
+    "AJAX",
+    "ANFIELD"
+  ]
+},
+    {
+      "id": "2019-20",
+      "year": 2019,
+      "title": "Pandemic and Bayern Machine",
+      "dek": "Liverpool end the 30-year league wait, Bayern become European champions in a compressed Lisbon tournament, and the pandemic transforms the season’s rhythm.",
+      "tags": [
+        "Liverpool title",
+        "Bayern Lisbon",
+        "Pandemic pause",
+        "PSG final"
+      ],
+      "posterWords": [
+        "PANDEMIC",
+        "LIVERPOOL",
+        "BAYERN"
+      ]
+    },
+    {
+      "id": "2020-21",
+      "year": 2020,
+      "title": "Lille Break Paris",
+      "dek": "Chelsea win Europe under Tuchel, Lille take Ligue 1 from PSG, Inter end Juventus’ Serie A streak, and Italy win Wembley on penalties.",
+      "tags": [
+        "Chelsea Porto",
+        "Lille title",
+        "Inter return",
+        "Italy Wembley"
+      ],
+      "posterWords": [
+        "CHELSEA",
+        "LILLE",
+        "ITALY"
+      ]
+    },
+    {
+      "id": "2021-22",
+      "year": 2021,
+      "title": "Madrid Refuse to Die",
+      "dek": "Real Madrid survive PSG, Chelsea and Manchester City on the way to another Champions League, City edge Liverpool again, and Messi leaves Barcelona for Paris.",
+      "tags": [
+        "Madrid comebacks",
+        "Messi to PSG",
+        "City-Liverpool",
+        "Benzema year"
+      ],
+      "posterWords": [
+        "BENZEMA",
+        "MADRID",
+        "PARIS"
+      ]
+    },
+    {
+      "id": "2022-23",
+      "year": 2022,
+      "title": "City Complete the Mission",
+      "dek": "Manchester City win the treble, Napoli take Serie A in style, Messi wins the World Cup, and Haaland changes Premier League scoring expectations.",
+      "tags": [
+        "City treble",
+        "Messi World Cup",
+        "Napoli Scudetto",
+        "Haaland 36"
+      ],
+      "posterWords": [
+        "CITY",
+        "MESSI",
+        "NAPOLI"
+      ]
+    },
+    {
+      "id": "2023-24",
+      "year": 2023,
+      "title": "Leverkusen Invincible",
+      "dek": "Leverkusen go unbeaten domestically, Real Madrid win Europe again, Spain win Euro 2024, and the next generation begins to take over.",
+      "tags": [
+        "Leverkusen unbeaten",
+        "Madrid Wembley",
+        "Spain 2024",
+        "Bellingham Madrid"
+      ],
+      "posterWords": [
+        "LEVERKUSEN",
+        "BELLINGHAM",
+        "YAMAL"
+      ]
+    },
+    {
+      "id": "2024-25",
+      "year": 2024,
+      "title": "PSG Finally Arrive",
+      "dek": "PSG win their first Champions League, Barcelona’s young core returns to the top in Spain, Liverpool move beyond Klopp, and Napoli reclaim Serie A under Conte.",
+      "tags": [
+        "PSG first UCL",
+        "Barça kids",
+        "Liverpool Slot",
+        "Napoli Conte"
+      ],
+      "posterWords": [
+        "PSG",
+        "BARÇA",
+        "MBAPPÉ"
+      ]
+    },
+    {
+      "id": "2025-26",
+      "year": 2025,
+      "title": "PSG Retain, Arsenal Arrive",
+      "dek": "Arsenal return to the top in England, PSG retain the Champions League on penalties, Barcelona hold Spain, Bayern run away with Germany, and the 2026 World Cup waits for the summer.",
+      "tags": [
+        "PSG retained Europe",
+        "Arsenal champions",
+        "Barça again",
+        "World Cup next"
+      ],
+      "posterWords": [
+        "ARSENAL",
+        "PSG",
+        "YAMAL"
+      ]
+    }
+  ],
+  "sourceNotes": [
+    "Top-four league placements are entered as final standings for the five major leagues from 2005-06 through 2024-25. Serie A 2005-06 uses post-Calciopoli official placement, not the original table order.",
+    "Champions League finals are entered from UEFA historical final records.",
+    "Ballon d’Or entries use the award top-three by calendar year shown in that season chapter. The 2020 Ballon d’Or was canceled, so 2020-21 has no top-three list.",
+    "Golden Boot entries use European Golden Shoe winners and domestic league top scorers. Tied domestic top scorers are entered as separate rows.",
+    "Core players are curated for learning context. S tier means central identity/season-defining player; A tier means major core contributor. They are not exact statistical rankings.",
+    "International tournaments are attached to the season chapter that leads into or contains that tournament summer/window.",
+    "2025-26 includes completed club-season and Champions League results as of June 2026; the 2026 World Cup is marked Coming soon because it takes place in summer 2026."
+  ]
+}

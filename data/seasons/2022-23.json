@@ -1,0 +1,485 @@
+{
+  "id": "2022-23",
+  "year": 2022,
+  "title": "City Complete the Mission",
+  "dek": "Manchester City win the treble, Napoli take Serie A in style, Messi wins the World Cup, and Haaland changes Premier League scoring expectations.",
+  "tags": [
+    "City treble",
+    "Messi World Cup",
+    "Napoli Scudetto",
+    "Haaland 36"
+  ],
+  "storylines": [
+    "Manchester City win the treble under Pep Guardiola.",
+    "Erling Haaland breaks the Premier League single-season scoring record.",
+    "Napoli win Serie A with Osimhen, Kvaratskhelia and Spalletti.",
+    "Argentina win the World Cup with Messi at the center of the story.",
+    "Arsenal return as a major Premier League title challenger."
+  ],
+  "ballonDor": [
+    {
+      "rank": 1,
+      "player": "Lionel Messi",
+      "club": "Inter Miami"
+    },
+    {
+      "rank": 2,
+      "player": "Erling Haaland",
+      "club": "Manchester City"
+    },
+    {
+      "rank": 3,
+      "player": "Kylian Mbappé",
+      "club": "Paris Saint-Germain"
+    }
+  ],
+  "goldenBoots": [
+    {
+      "comp": "European Golden Shoe",
+      "winner": "Erling Haaland",
+      "detail": "Manchester City"
+    },
+    {
+      "comp": "Premier League",
+      "winner": "Erling Haaland",
+      "detail": "Manchester City"
+    },
+    {
+      "comp": "La Liga",
+      "winner": "Robert Lewandowski",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Victor Osimhen",
+      "detail": "Napoli"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Niclas Füllkrug",
+      "detail": "Werder Bremen"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Christopher Nkunku",
+      "detail": "RB Leipzig"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Kylian Mbappé",
+      "detail": "Paris Saint-Germain"
+    }
+  ],
+  "transfers": [
+    [
+      "Erling Haaland",
+      "Borussia Dortmund",
+      "Manchester City"
+    ],
+    [
+      "Casemiro",
+      "Real Madrid",
+      "Manchester United"
+    ],
+    [
+      "Aurélien Tchouaméni",
+      "Monaco",
+      "Real Madrid"
+    ],
+    [
+      "Robert Lewandowski",
+      "Bayern Munich",
+      "Barcelona"
+    ],
+    [
+      "Sadio Mané",
+      "Liverpool",
+      "Bayern Munich"
+    ],
+    [
+      "Darwin Núñez",
+      "Benfica",
+      "Liverpool"
+    ],
+    [
+      "Antony",
+      "Ajax",
+      "Manchester United"
+    ]
+  ],
+  "ucl": {
+    "winner": "Manchester City",
+    "runnerUp": "Inter",
+    "score": "Manchester City 1–0 Inter",
+    "venue": "Atatürk Olympic Stadium, Istanbul",
+    "winnerCore": {
+      "s": [
+        "Kevin De Bruyne",
+        "Erling Haaland"
+      ],
+      "a": [
+        "Rodri",
+        "İlkay Gündoğan",
+        "Rúben Dias",
+        "Bernardo Silva",
+        "Ederson"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Lautaro Martínez",
+        "Nicolò Barella"
+      ],
+      "a": [
+        "Alessandro Bastoni",
+        "Hakan Çalhanoğlu",
+        "Federico Dimarco",
+        "André Onana"
+      ]
+    }
+  },
+  "leagues": {
+    "Premier League": [
+      {
+        "position": 1,
+        "name": "Manchester City",
+        "tiers": {
+          "s": [
+            "Erling Haaland",
+            "Kevin De Bruyne"
+          ],
+          "a": [
+            "Rodri",
+            "İlkay Gündoğan",
+            "Rúben Dias"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Arsenal",
+        "tiers": {
+          "s": [
+            "Bukayo Saka",
+            "Martin Ødegaard"
+          ],
+          "a": [
+            "Gabriel Jesus",
+            "William Saliba",
+            "Declan Rice"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Manchester United",
+        "tiers": {
+          "s": [
+            "Marcus Rashford",
+            "Bruno Fernandes"
+          ],
+          "a": [
+            "Casemiro",
+            "Lisandro Martínez",
+            "Raphaël Varane"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Newcastle United",
+        "tiers": {
+          "s": [
+            "Bruno Guimarães",
+            "Kieran Trippier"
+          ],
+          "a": [
+            "Alexander Isak",
+            "Miguel Almirón",
+            "Nick Pope"
+          ]
+        }
+      }
+    ],
+    "La Liga": [
+      {
+        "position": 1,
+        "name": "Barcelona",
+        "tiers": {
+          "s": [
+            "Robert Lewandowski",
+            "Pedri"
+          ],
+          "a": [
+            "Gavi",
+            "Ronald Araújo",
+            "Marc-André ter Stegen"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Real Madrid",
+        "tiers": {
+          "s": [
+            "Karim Benzema",
+            "Vinícius Júnior"
+          ],
+          "a": [
+            "Luka Modrić",
+            "Toni Kroos",
+            "Thibaut Courtois"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Atlético Madrid",
+        "tiers": {
+          "s": [
+            "Antoine Griezmann",
+            "Jan Oblak"
+          ],
+          "a": [
+            "Koke",
+            "Álvaro Morata",
+            "Nahuel Molina"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Real Sociedad",
+        "tiers": {
+          "s": [
+            "Mikel Oyarzabal",
+            "David Silva"
+          ],
+          "a": [
+            "Takefusa Kubo",
+            "Martín Zubimendi",
+            "Álex Remiro"
+          ]
+        }
+      }
+    ],
+    "Serie A": [
+      {
+        "position": 1,
+        "name": "Napoli",
+        "tiers": {
+          "s": [
+            "Victor Osimhen",
+            "Khvicha Kvaratskhelia"
+          ],
+          "a": [
+            "Kim Min-jae",
+            "Stanislav Lobotka",
+            "Giovanni Di Lorenzo"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Lazio",
+        "tiers": {
+          "s": [
+            "Ciro Immobile",
+            "Luis Alberto"
+          ],
+          "a": [
+            "Sergej Milinković-Savić",
+            "Mattia Zaccagni",
+            "Ivan Provedel"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Inter",
+        "tiers": {
+          "s": [
+            "Lautaro Martínez",
+            "Nicolò Barella"
+          ],
+          "a": [
+            "Hakan Çalhanoğlu",
+            "Alessandro Bastoni",
+            "André Onana"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "AC Milan",
+        "tiers": {
+          "s": [
+            "Rafael Leão",
+            "Theo Hernández"
+          ],
+          "a": [
+            "Mike Maignan",
+            "Olivier Giroud",
+            "Sandro Tonali"
+          ]
+        }
+      }
+    ],
+    "Bundesliga": [
+      {
+        "position": 1,
+        "name": "Bayern Munich",
+        "tiers": {
+          "s": [
+            "Jamal Musiala",
+            "Joshua Kimmich"
+          ],
+          "a": [
+            "Thomas Müller",
+            "Leroy Sané",
+            "Matthijs de Ligt"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Borussia Dortmund",
+        "tiers": {
+          "s": [
+            "Jude Bellingham",
+            "Julian Brandt"
+          ],
+          "a": [
+            "Marco Reus",
+            "Gregor Kobel",
+            "Nico Schlotterbeck"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "RB Leipzig",
+        "tiers": {
+          "s": [
+            "Christopher Nkunku",
+            "Dominik Szoboszlai"
+          ],
+          "a": [
+            "Dani Olmo",
+            "Joško Gvardiol",
+            "Péter Gulácsi"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Union Berlin",
+        "tiers": {
+          "s": [
+            "Sheraldo Becker",
+            "Robin Knoche"
+          ],
+          "a": [
+            "Rani Khedira",
+            "Frederik Rønnow",
+            "Kevin Behrens"
+          ]
+        }
+      }
+    ],
+    "Ligue 1": [
+      {
+        "position": 1,
+        "name": "Paris Saint-Germain",
+        "tiers": {
+          "s": [
+            "Kylian Mbappé",
+            "Lionel Messi"
+          ],
+          "a": [
+            "Neymar",
+            "Achraf Hakimi",
+            "Marquinhos"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Lens",
+        "tiers": {
+          "s": [
+            "Loïs Openda",
+            "Seko Fofana"
+          ],
+          "a": [
+            "Kevin Danso",
+            "Brice Samba",
+            "Facundo Medina"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Marseille",
+        "tiers": {
+          "s": [
+            "Alexis Sánchez",
+            "Mattéo Guendouzi"
+          ],
+          "a": [
+            "Jordan Veretout",
+            "Chancel Mbemba",
+            "Pau López"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Rennes",
+        "tiers": {
+          "s": [
+            "Benjamin Bourigeaud",
+            "Martin Terrier"
+          ],
+          "a": [
+            "Amine Gouiri",
+            "Lovro Majer",
+            "Steve Mandanda"
+          ]
+        }
+      }
+    ]
+  },
+  "international": {
+    "type": "World Cup",
+    "year": 2022,
+    "winner": "Argentina",
+    "runnerUp": "France",
+    "score": "Argentina 3–3 France, Argentina won 4–2 on penalties",
+    "winnerCore": {
+      "s": [
+        "Lionel Messi",
+        "Emiliano Martínez"
+      ],
+      "a": [
+        "Ángel Di María",
+        "Julián Álvarez",
+        "Enzo Fernández",
+        "Rodrigo De Paul",
+        "Nicolás Otamendi"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Kylian Mbappé",
+        "Antoine Griezmann"
+      ],
+      "a": [
+        "Aurélien Tchouaméni",
+        "Olivier Giroud",
+        "Hugo Lloris",
+        "Theo Hernández"
+      ]
+    }
+  }
+}

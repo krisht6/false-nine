@@ -1,0 +1,449 @@
+{
+  "id": "2016-17",
+  "year": 2016,
+  "title": "Madrid Go Back-to-Back",
+  "dek": "Real Madrid become the first Champions League repeat winners, Monaco explode with Mbappé, Chelsea switch to Conte’s back three, and Neymar’s Barcelona exit looms.",
+  "tags": [
+    "Madrid repeat",
+    "Monaco Mbappé",
+    "Conte Chelsea",
+    "Neymar turning point"
+  ],
+  "storylines": [
+    "Real Madrid become the first club to retain the Champions League in the modern era.",
+    "Monaco win Ligue 1 with Mbappé, Bernardo Silva and Fabinho leading a young attacking side.",
+    "Chelsea win the Premier League under Antonio Conte after switching to a back-three system.",
+    "Juventus continue their Serie A run and reach another Champions League final.",
+    "Barcelona’s Neymar era nears its end before the PSG transfer changes the market."
+  ],
+  "ballonDor": [
+    {
+      "rank": 1,
+      "player": "Cristiano Ronaldo",
+      "club": "Real Madrid"
+    },
+    {
+      "rank": 2,
+      "player": "Lionel Messi",
+      "club": "Barcelona"
+    },
+    {
+      "rank": 3,
+      "player": "Neymar",
+      "club": "Paris Saint-Germain"
+    }
+  ],
+  "goldenBoots": [
+    {
+      "comp": "European Golden Shoe",
+      "winner": "Lionel Messi",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Premier League",
+      "winner": "Harry Kane",
+      "detail": "Tottenham Hotspur"
+    },
+    {
+      "comp": "La Liga",
+      "winner": "Lionel Messi",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Edin Džeko",
+      "detail": "Roma"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Pierre-Emerick Aubameyang",
+      "detail": "Borussia Dortmund"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Edinson Cavani",
+      "detail": "Paris Saint-Germain"
+    }
+  ],
+  "transfers": [
+    [
+      "Paul Pogba",
+      "Juventus",
+      "Manchester United"
+    ],
+    [
+      "Zlatan Ibrahimović",
+      "Paris Saint-Germain",
+      "Manchester United"
+    ],
+    [
+      "N’Golo Kanté",
+      "Leicester City",
+      "Chelsea"
+    ],
+    [
+      "Sadio Mané",
+      "Southampton",
+      "Liverpool"
+    ],
+    [
+      "Gonzalo Higuaín",
+      "Napoli",
+      "Juventus"
+    ],
+    [
+      "Mats Hummels",
+      "Borussia Dortmund",
+      "Bayern Munich"
+    ],
+    [
+      "John Stones",
+      "Everton",
+      "Manchester City"
+    ]
+  ],
+  "ucl": {
+    "winner": "Real Madrid",
+    "runnerUp": "Juventus",
+    "score": "Real Madrid 4–1 Juventus",
+    "venue": "Millennium Stadium, Cardiff",
+    "winnerCore": {
+      "s": [
+        "Cristiano Ronaldo",
+        "Sergio Ramos"
+      ],
+      "a": [
+        "Luka Modrić",
+        "Toni Kroos",
+        "Karim Benzema",
+        "Marcelo",
+        "Casemiro"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Gianluigi Buffon",
+        "Paulo Dybala"
+      ],
+      "a": [
+        "Dani Alves",
+        "Leonardo Bonucci",
+        "Giorgio Chiellini",
+        "Miralem Pjanić"
+      ]
+    }
+  },
+  "leagues": {
+    "Premier League": [
+      {
+        "position": 1,
+        "name": "Chelsea",
+        "tiers": {
+          "s": [
+            "Eden Hazard",
+            "N’Golo Kanté"
+          ],
+          "a": [
+            "Diego Costa",
+            "César Azpilicueta",
+            "Thibaut Courtois"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Tottenham Hotspur",
+        "tiers": {
+          "s": [
+            "Harry Kane",
+            "Dele Alli"
+          ],
+          "a": [
+            "Christian Eriksen",
+            "Hugo Lloris",
+            "Toby Alderweireld"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Manchester City",
+        "tiers": {
+          "s": [
+            "Kevin De Bruyne",
+            "Sergio Agüero"
+          ],
+          "a": [
+            "David Silva",
+            "Raheem Sterling",
+            "Fernandinho"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Liverpool",
+        "tiers": {
+          "s": [
+            "Sadio Mané",
+            "Philippe Coutinho"
+          ],
+          "a": [
+            "Roberto Firmino",
+            "Jordan Henderson",
+            "Adam Lallana"
+          ]
+        }
+      }
+    ],
+    "La Liga": [
+      {
+        "position": 1,
+        "name": "Real Madrid",
+        "tiers": {
+          "s": [
+            "Cristiano Ronaldo",
+            "Sergio Ramos"
+          ],
+          "a": [
+            "Luka Modrić",
+            "Toni Kroos",
+            "Karim Benzema",
+            "Marcelo"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Barcelona",
+        "tiers": {
+          "s": [
+            "Lionel Messi",
+            "Luis Suárez"
+          ],
+          "a": [
+            "Neymar",
+            "Andrés Iniesta",
+            "Sergio Busquets"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Atlético Madrid",
+        "tiers": {
+          "s": [
+            "Antoine Griezmann",
+            "Diego Godín"
+          ],
+          "a": [
+            "Jan Oblak",
+            "Koke",
+            "Saúl Ñíguez"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Sevilla",
+        "tiers": {
+          "s": [
+            "Samir Nasri",
+            "Wissam Ben Yedder"
+          ],
+          "a": [
+            "Vitolo",
+            "Steven Nzonzi",
+            "Sergio Rico"
+          ]
+        }
+      }
+    ],
+    "Serie A": [
+      {
+        "position": 1,
+        "name": "Juventus",
+        "tiers": {
+          "s": [
+            "Paulo Dybala",
+            "Gianluigi Buffon"
+          ],
+          "a": [
+            "Leonardo Bonucci",
+            "Gonzalo Higuaín",
+            "Miralem Pjanić"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Roma",
+        "tiers": {
+          "s": [
+            "Edin Džeko",
+            "Mohamed Salah"
+          ],
+          "a": [
+            "Radja Nainggolan",
+            "Daniele De Rossi",
+            "Kostas Manolas"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Napoli",
+        "tiers": {
+          "s": [
+            "Dries Mertens",
+            "Lorenzo Insigne"
+          ],
+          "a": [
+            "Marek Hamšík",
+            "Kalidou Koulibaly",
+            "Jorginho"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Atalanta",
+        "tiers": {
+          "s": [
+            "Papu Gómez",
+            "Franck Kessié"
+          ],
+          "a": [
+            "Mattia Caldara",
+            "Andrea Conti",
+            "Alejandro Gómez"
+          ]
+        }
+      }
+    ],
+    "Bundesliga": [
+      {
+        "position": 1,
+        "name": "Bayern Munich",
+        "tiers": {
+          "s": [
+            "Robert Lewandowski",
+            "Arjen Robben"
+          ],
+          "a": [
+            "Thiago",
+            "Manuel Neuer",
+            "Philipp Lahm"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "RB Leipzig",
+        "tiers": {
+          "s": [
+            "Timo Werner",
+            "Emil Forsberg"
+          ],
+          "a": [
+            "Naby Keïta",
+            "Yussuf Poulsen",
+            "Péter Gulácsi"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Borussia Dortmund",
+        "tiers": {
+          "s": [
+            "Pierre-Emerick Aubameyang",
+            "Ousmane Dembélé"
+          ],
+          "a": [
+            "Marco Reus",
+            "Christian Pulisic",
+            "Julian Weigl"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Hoffenheim",
+        "tiers": {
+          "s": [
+            "Sandro Wagner",
+            "Sebastian Rudy"
+          ],
+          "a": [
+            "Niklas Süle",
+            "Kerem Demirbay",
+            "Andrej Kramarić"
+          ]
+        }
+      }
+    ],
+    "Ligue 1": [
+      {
+        "position": 1,
+        "name": "Monaco",
+        "tiers": {
+          "s": [
+            "Kylian Mbappé",
+            "Radamel Falcao"
+          ],
+          "a": [
+            "Bernardo Silva",
+            "Fabinho",
+            "Thomas Lemar"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Paris Saint-Germain",
+        "tiers": {
+          "s": [
+            "Edinson Cavani",
+            "Marco Verratti"
+          ],
+          "a": [
+            "Thiago Silva",
+            "Ángel Di María",
+            "Marquinhos"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Nice",
+        "tiers": {
+          "s": [
+            "Mario Balotelli",
+            "Jean Michaël Seri"
+          ],
+          "a": [
+            "Alassane Pléa",
+            "Dante",
+            "Wylan Cyprien"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Lyon",
+        "tiers": {
+          "s": [
+            "Alexandre Lacazette",
+            "Nabil Fekir"
+          ],
+          "a": [
+            "Corentin Tolisso",
+            "Memphis Depay",
+            "Anthony Lopes"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,480 @@
+{
+  "id": "2020-21",
+  "year": 2020,
+  "title": "Lille Break Paris",
+  "dek": "Chelsea win Europe under Tuchel, Lille take Ligue 1 from PSG, Inter end Juventus’ Serie A streak, and Italy win Wembley on penalties.",
+  "tags": [
+    "Chelsea Porto",
+    "Lille title",
+    "Inter return",
+    "Italy Wembley"
+  ],
+  "storylines": [
+    "Chelsea win the Champions League after Thomas Tuchel arrives midseason.",
+    "Manchester City reach their first Champions League final.",
+    "Lille beat PSG to the Ligue 1 title.",
+    "Inter end Juventus’ nine-year Serie A title streak.",
+    "Italy win Euro 2020 at Wembley on penalties."
+  ],
+  "ballonDor": [
+    {
+      "rank": 1,
+      "player": "Lionel Messi",
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "rank": 2,
+      "player": "Robert Lewandowski",
+      "club": "Bayern Munich"
+    },
+    {
+      "rank": 3,
+      "player": "Jorginho",
+      "club": "Chelsea"
+    }
+  ],
+  "goldenBoots": [
+    {
+      "comp": "European Golden Shoe",
+      "winner": "Robert Lewandowski",
+      "detail": "Bayern Munich"
+    },
+    {
+      "comp": "Premier League",
+      "winner": "Harry Kane",
+      "detail": "Tottenham Hotspur"
+    },
+    {
+      "comp": "La Liga",
+      "winner": "Lionel Messi",
+      "detail": "Barcelona"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Cristiano Ronaldo",
+      "detail": "Juventus"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Robert Lewandowski",
+      "detail": "Bayern Munich"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Kylian Mbappé",
+      "detail": "Paris Saint-Germain"
+    }
+  ],
+  "transfers": [
+    [
+      "Kai Havertz",
+      "Bayer Leverkusen",
+      "Chelsea"
+    ],
+    [
+      "Timo Werner",
+      "RB Leipzig",
+      "Chelsea"
+    ],
+    [
+      "Rúben Dias",
+      "Benfica",
+      "Manchester City"
+    ],
+    [
+      "Thiago",
+      "Bayern Munich",
+      "Liverpool"
+    ],
+    [
+      "Achraf Hakimi",
+      "Real Madrid",
+      "Inter"
+    ],
+    [
+      "Victor Osimhen",
+      "Lille",
+      "Napoli"
+    ],
+    [
+      "Luis Suárez",
+      "Barcelona",
+      "Atlético Madrid"
+    ]
+  ],
+  "ucl": {
+    "winner": "Chelsea",
+    "runnerUp": "Manchester City",
+    "score": "Chelsea 1–0 Manchester City",
+    "venue": "Estádio do Dragão, Porto",
+    "winnerCore": {
+      "s": [
+        "N’Golo Kanté",
+        "Kai Havertz"
+      ],
+      "a": [
+        "Mason Mount",
+        "Thiago Silva",
+        "Reece James",
+        "César Azpilicueta",
+        "Édouard Mendy"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Kevin De Bruyne",
+        "Rúben Dias"
+      ],
+      "a": [
+        "Phil Foden",
+        "Riyad Mahrez",
+        "İlkay Gündoğan",
+        "Ederson"
+      ]
+    }
+  },
+  "leagues": {
+    "Premier League": [
+      {
+        "position": 1,
+        "name": "Manchester City",
+        "tiers": {
+          "s": [
+            "Kevin De Bruyne",
+            "Rúben Dias"
+          ],
+          "a": [
+            "İlkay Gündoğan",
+            "Phil Foden",
+            "Ederson"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Manchester United",
+        "tiers": {
+          "s": [
+            "Bruno Fernandes",
+            "Marcus Rashford"
+          ],
+          "a": [
+            "Luke Shaw",
+            "Harry Maguire",
+            "Paul Pogba"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Liverpool",
+        "tiers": {
+          "s": [
+            "Mohamed Salah",
+            "Sadio Mané"
+          ],
+          "a": [
+            "Fabinho",
+            "Alisson",
+            "Trent Alexander-Arnold"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Chelsea",
+        "tiers": {
+          "s": [
+            "Mason Mount",
+            "N’Golo Kanté"
+          ],
+          "a": [
+            "Reece James",
+            "Kai Havertz",
+            "Édouard Mendy"
+          ]
+        }
+      }
+    ],
+    "La Liga": [
+      {
+        "position": 1,
+        "name": "Atlético Madrid",
+        "tiers": {
+          "s": [
+            "Luis Suárez",
+            "Jan Oblak"
+          ],
+          "a": [
+            "Koke",
+            "Marcos Llorente",
+            "Stefan Savić"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Real Madrid",
+        "tiers": {
+          "s": [
+            "Karim Benzema",
+            "Luka Modrić"
+          ],
+          "a": [
+            "Toni Kroos",
+            "Casemiro",
+            "Thibaut Courtois"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Barcelona",
+        "tiers": {
+          "s": [
+            "Lionel Messi",
+            "Frenkie de Jong"
+          ],
+          "a": [
+            "Pedri",
+            "Sergio Busquets",
+            "Jordi Alba"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Sevilla",
+        "tiers": {
+          "s": [
+            "Youssef En-Nesyri",
+            "Jules Koundé"
+          ],
+          "a": [
+            "Diego Carlos",
+            "Jesús Navas",
+            "Lucas Ocampos"
+          ]
+        }
+      }
+    ],
+    "Serie A": [
+      {
+        "position": 1,
+        "name": "Inter",
+        "tiers": {
+          "s": [
+            "Romelu Lukaku",
+            "Lautaro Martínez"
+          ],
+          "a": [
+            "Nicolò Barella",
+            "Achraf Hakimi",
+            "Samir Handanović"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "AC Milan",
+        "tiers": {
+          "s": [
+            "Zlatan Ibrahimović",
+            "Franck Kessié"
+          ],
+          "a": [
+            "Theo Hernández",
+            "Hakan Çalhanoğlu",
+            "Gianluigi Donnarumma"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Atalanta",
+        "tiers": {
+          "s": [
+            "Duván Zapata",
+            "Ruslan Malinovskyi"
+          ],
+          "a": [
+            "Luis Muriel",
+            "Robin Gosens",
+            "Marten de Roon"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Juventus",
+        "tiers": {
+          "s": [
+            "Cristiano Ronaldo",
+            "Federico Chiesa"
+          ],
+          "a": [
+            "Paulo Dybala",
+            "Leonardo Bonucci",
+            "Wojciech Szczęsny"
+          ]
+        }
+      }
+    ],
+    "Bundesliga": [
+      {
+        "position": 1,
+        "name": "Bayern Munich",
+        "tiers": {
+          "s": [
+            "Robert Lewandowski",
+            "Thomas Müller"
+          ],
+          "a": [
+            "Joshua Kimmich",
+            "Manuel Neuer",
+            "Serge Gnabry"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "RB Leipzig",
+        "tiers": {
+          "s": [
+            "Dani Olmo",
+            "Christopher Nkunku"
+          ],
+          "a": [
+            "Marcel Sabitzer",
+            "Dayot Upamecano",
+            "Péter Gulácsi"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Borussia Dortmund",
+        "tiers": {
+          "s": [
+            "Erling Haaland",
+            "Jadon Sancho"
+          ],
+          "a": [
+            "Marco Reus",
+            "Jude Bellingham",
+            "Mats Hummels"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Wolfsburg",
+        "tiers": {
+          "s": [
+            "Wout Weghorst",
+            "Maximilian Arnold"
+          ],
+          "a": [
+            "Koen Casteels",
+            "Ridle Baku",
+            "John Brooks"
+          ]
+        }
+      }
+    ],
+    "Ligue 1": [
+      {
+        "position": 1,
+        "name": "Lille",
+        "tiers": {
+          "s": [
+            "Burak Yılmaz",
+            "Jonathan David"
+          ],
+          "a": [
+            "Renato Sanches",
+            "José Fonte",
+            "Mike Maignan"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Paris Saint-Germain",
+        "tiers": {
+          "s": [
+            "Kylian Mbappé",
+            "Neymar"
+          ],
+          "a": [
+            "Ángel Di María",
+            "Marquinhos",
+            "Marco Verratti"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Monaco",
+        "tiers": {
+          "s": [
+            "Wissam Ben Yedder",
+            "Kevin Volland"
+          ],
+          "a": [
+            "Aurélien Tchouaméni",
+            "Sofiane Diop",
+            "Caio Henrique"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Lyon",
+        "tiers": {
+          "s": [
+            "Memphis Depay",
+            "Karl Toko Ekambi"
+          ],
+          "a": [
+            "Lucas Paquetá",
+            "Houssem Aouar",
+            "Anthony Lopes"
+          ]
+        }
+      }
+    ]
+  },
+  "international": {
+    "type": "Euro",
+    "year": 2020,
+    "winner": "Italy",
+    "runnerUp": "England",
+    "score": "Italy 1–1 England, Italy won 3–2 on penalties",
+    "winnerCore": {
+      "s": [
+        "Gianluigi Donnarumma",
+        "Leonardo Bonucci"
+      ],
+      "a": [
+        "Giorgio Chiellini",
+        "Jorginho",
+        "Federico Chiesa",
+        "Lorenzo Insigne",
+        "Marco Verratti"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Harry Kane",
+        "Raheem Sterling"
+      ],
+      "a": [
+        "Bukayo Saka",
+        "Declan Rice",
+        "Mason Mount",
+        "Jordan Pickford"
+      ]
+    }
+  }
+}

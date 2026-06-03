@@ -1,0 +1,453 @@
+{
+  "id": "2024-25",
+  "year": 2024,
+  "title": "PSG Finally Arrive",
+  "dek": "PSG win their first Champions League, Barcelona’s young core returns to the top in Spain, Liverpool move beyond Klopp, and Napoli reclaim Serie A under Conte.",
+  "tags": [
+    "PSG first UCL",
+    "Barça kids",
+    "Liverpool Slot",
+    "Napoli Conte"
+  ],
+  "storylines": [
+    "Paris Saint-Germain win their first Champions League.",
+    "Barcelona return to the top of La Liga with a young core.",
+    "Liverpool move beyond the Klopp era and win the Premier League.",
+    "Napoli reclaim Serie A under Antonio Conte.",
+    "PSG’s post-Mbappé attack becomes more collective under Luis Enrique."
+  ],
+  "ballonDor": [
+    {
+      "rank": 1,
+      "player": "Ousmane Dembélé",
+      "club": "Paris Saint-Germain"
+    },
+    {
+      "rank": 2,
+      "player": "Lamine Yamal",
+      "club": "Barcelona"
+    },
+    {
+      "rank": 3,
+      "player": "Vitinha",
+      "club": "Paris Saint-Germain"
+    }
+  ],
+  "goldenBoots": [
+    {
+      "comp": "European Golden Shoe",
+      "winner": "Kylian Mbappé",
+      "detail": "Real Madrid"
+    },
+    {
+      "comp": "Premier League",
+      "winner": "Mohamed Salah",
+      "detail": "Liverpool"
+    },
+    {
+      "comp": "La Liga",
+      "winner": "Kylian Mbappé",
+      "detail": "Real Madrid"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Mateo Retegui",
+      "detail": "Atalanta"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Harry Kane",
+      "detail": "Bayern Munich"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Mason Greenwood",
+      "detail": "Marseille"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Ousmane Dembélé",
+      "detail": "Paris Saint-Germain"
+    }
+  ],
+  "transfers": [
+    [
+      "Kylian Mbappé",
+      "Paris Saint-Germain",
+      "Real Madrid"
+    ],
+    [
+      "Julián Álvarez",
+      "Manchester City",
+      "Atlético Madrid"
+    ],
+    [
+      "Michael Olise",
+      "Crystal Palace",
+      "Bayern Munich"
+    ],
+    [
+      "Leny Yoro",
+      "Lille",
+      "Manchester United"
+    ],
+    [
+      "João Palhinha",
+      "Fulham",
+      "Bayern Munich"
+    ],
+    [
+      "Amadou Onana",
+      "Everton",
+      "Aston Villa"
+    ],
+    [
+      "Mason Greenwood",
+      "Manchester United",
+      "Marseille"
+    ]
+  ],
+  "ucl": {
+    "winner": "Paris Saint-Germain",
+    "runnerUp": "Inter",
+    "score": "Paris Saint-Germain 5–0 Inter",
+    "venue": "Allianz Arena, Munich",
+    "winnerCore": {
+      "s": [
+        "Ousmane Dembélé",
+        "Vitinha"
+      ],
+      "a": [
+        "Achraf Hakimi",
+        "Khvicha Kvaratskhelia",
+        "Désiré Doué",
+        "Gianluigi Donnarumma",
+        "Marquinhos"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Lautaro Martínez",
+        "Nicolò Barella"
+      ],
+      "a": [
+        "Alessandro Bastoni",
+        "Hakan Çalhanoğlu",
+        "Marcus Thuram",
+        "Yann Sommer"
+      ]
+    }
+  },
+  "leagues": {
+    "Premier League": [
+      {
+        "position": 1,
+        "name": "Liverpool",
+        "tiers": {
+          "s": [
+            "Mohamed Salah",
+            "Virgil van Dijk"
+          ],
+          "a": [
+            "Alexis Mac Allister",
+            "Alisson",
+            "Trent Alexander-Arnold"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Arsenal",
+        "tiers": {
+          "s": [
+            "Bukayo Saka",
+            "Martin Ødegaard"
+          ],
+          "a": [
+            "Declan Rice",
+            "William Saliba",
+            "Gabriel Magalhães"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Manchester City",
+        "tiers": {
+          "s": [
+            "Erling Haaland",
+            "Phil Foden"
+          ],
+          "a": [
+            "Rodri",
+            "Kevin De Bruyne",
+            "Rúben Dias"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Chelsea",
+        "tiers": {
+          "s": [
+            "Cole Palmer",
+            "Enzo Fernández"
+          ],
+          "a": [
+            "Moises Caicedo",
+            "Nicolas Jackson",
+            "Levi Colwill"
+          ]
+        }
+      }
+    ],
+    "La Liga": [
+      {
+        "position": 1,
+        "name": "Barcelona",
+        "tiers": {
+          "s": [
+            "Lamine Yamal",
+            "Robert Lewandowski"
+          ],
+          "a": [
+            "Pedri",
+            "Raphinha",
+            "Pau Cubarsí"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Real Madrid",
+        "tiers": {
+          "s": [
+            "Kylian Mbappé",
+            "Vinícius Júnior"
+          ],
+          "a": [
+            "Jude Bellingham",
+            "Federico Valverde",
+            "Thibaut Courtois"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Atlético Madrid",
+        "tiers": {
+          "s": [
+            "Antoine Griezmann",
+            "Julián Álvarez"
+          ],
+          "a": [
+            "Jan Oblak",
+            "Koke",
+            "Rodrigo De Paul"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Athletic Club",
+        "tiers": {
+          "s": [
+            "Nico Williams",
+            "Iñaki Williams"
+          ],
+          "a": [
+            "Oihan Sancet",
+            "Unai Simón",
+            "Dani Vivian"
+          ]
+        }
+      }
+    ],
+    "Serie A": [
+      {
+        "position": 1,
+        "name": "Napoli",
+        "tiers": {
+          "s": [
+            "Scott McTominay",
+            "Romelu Lukaku"
+          ],
+          "a": [
+            "Khvicha Kvaratskhelia",
+            "Giovanni Di Lorenzo",
+            "Stanislav Lobotka"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Inter",
+        "tiers": {
+          "s": [
+            "Lautaro Martínez",
+            "Nicolò Barella"
+          ],
+          "a": [
+            "Hakan Çalhanoğlu",
+            "Alessandro Bastoni",
+            "Marcus Thuram"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Atalanta",
+        "tiers": {
+          "s": [
+            "Mateo Retegui",
+            "Ademola Lookman"
+          ],
+          "a": [
+            "Charles De Ketelaere",
+            "Marten de Roon",
+            "Éderson"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Juventus",
+        "tiers": {
+          "s": [
+            "Dušan Vlahović",
+            "Kenan Yıldız"
+          ],
+          "a": [
+            "Federico Gatti",
+            "Manuel Locatelli",
+            "Michele Di Gregorio"
+          ]
+        }
+      }
+    ],
+    "Bundesliga": [
+      {
+        "position": 1,
+        "name": "Bayern Munich",
+        "tiers": {
+          "s": [
+            "Harry Kane",
+            "Jamal Musiala"
+          ],
+          "a": [
+            "Michael Olise",
+            "Joshua Kimmich",
+            "Manuel Neuer"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Bayer Leverkusen",
+        "tiers": {
+          "s": [
+            "Florian Wirtz",
+            "Granit Xhaka"
+          ],
+          "a": [
+            "Patrik Schick",
+            "Jeremie Frimpong",
+            "Álex Grimaldo"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Eintracht Frankfurt",
+        "tiers": {
+          "s": [
+            "Omar Marmoush",
+            "Hugo Ekitike"
+          ],
+          "a": [
+            "Mario Götze",
+            "Robin Koch",
+            "Kevin Trapp"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Borussia Dortmund",
+        "tiers": {
+          "s": [
+            "Serhou Guirassy",
+            "Julian Brandt"
+          ],
+          "a": [
+            "Karim Adeyemi",
+            "Gregor Kobel",
+            "Nico Schlotterbeck"
+          ]
+        }
+      }
+    ],
+    "Ligue 1": [
+      {
+        "position": 1,
+        "name": "Paris Saint-Germain",
+        "tiers": {
+          "s": [
+            "Ousmane Dembélé",
+            "Vitinha"
+          ],
+          "a": [
+            "Achraf Hakimi",
+            "Marquinhos",
+            "Khvicha Kvaratskhelia"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Marseille",
+        "tiers": {
+          "s": [
+            "Mason Greenwood",
+            "Adrien Rabiot"
+          ],
+          "a": [
+            "Pierre-Emile Højbjerg",
+            "Amine Gouiri",
+            "Gerónimo Rulli"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Monaco",
+        "tiers": {
+          "s": [
+            "Eliesse Ben Seghir",
+            "Maghnes Akliouche"
+          ],
+          "a": [
+            "Breel Embolo",
+            "Denis Zakaria",
+            "Philipp Köhn"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Nice",
+        "tiers": {
+          "s": [
+            "Evann Guessand",
+            "Jonathan Clauss"
+          ],
+          "a": [
+            "Hicham Boudaoui",
+            "Melvin Bard",
+            "Marcin Bułka"
+          ]
+        }
+      }
+    ]
+  }
+}

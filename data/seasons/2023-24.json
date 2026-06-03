@@ -1,0 +1,480 @@
+{
+  "id": "2023-24",
+  "year": 2023,
+  "title": "Leverkusen Invincible",
+  "dek": "Leverkusen go unbeaten domestically, Real Madrid win Europe again, Spain win Euro 2024, and the next generation begins to take over.",
+  "tags": [
+    "Leverkusen unbeaten",
+    "Madrid Wembley",
+    "Spain 2024",
+    "Bellingham Madrid"
+  ],
+  "storylines": [
+    "Bayer Leverkusen go unbeaten in the Bundesliga under Xabi Alonso.",
+    "Real Madrid win another Champions League at Wembley.",
+    "Spain win Euro 2024 with a younger, faster generation.",
+    "Jude Bellingham immediately becomes central at Real Madrid.",
+    "Girona and Brest become unlikely Champions League qualifiers."
+  ],
+  "ballonDor": [
+    {
+      "rank": 1,
+      "player": "Rodri",
+      "club": "Manchester City"
+    },
+    {
+      "rank": 2,
+      "player": "Vinícius Júnior",
+      "club": "Real Madrid"
+    },
+    {
+      "rank": 3,
+      "player": "Jude Bellingham",
+      "club": "Real Madrid"
+    }
+  ],
+  "goldenBoots": [
+    {
+      "comp": "European Golden Shoe",
+      "winner": "Harry Kane",
+      "detail": "Bayern Munich"
+    },
+    {
+      "comp": "Premier League",
+      "winner": "Erling Haaland",
+      "detail": "Manchester City"
+    },
+    {
+      "comp": "La Liga",
+      "winner": "Artem Dovbyk",
+      "detail": "Girona"
+    },
+    {
+      "comp": "Serie A",
+      "winner": "Lautaro Martínez",
+      "detail": "Inter"
+    },
+    {
+      "comp": "Bundesliga",
+      "winner": "Harry Kane",
+      "detail": "Bayern Munich"
+    },
+    {
+      "comp": "Ligue 1",
+      "winner": "Kylian Mbappé",
+      "detail": "Paris Saint-Germain"
+    }
+  ],
+  "transfers": [
+    [
+      "Jude Bellingham",
+      "Borussia Dortmund",
+      "Real Madrid"
+    ],
+    [
+      "Harry Kane",
+      "Tottenham Hotspur",
+      "Bayern Munich"
+    ],
+    [
+      "Declan Rice",
+      "West Ham United",
+      "Arsenal"
+    ],
+    [
+      "Kai Havertz",
+      "Chelsea",
+      "Arsenal"
+    ],
+    [
+      "İlkay Gündoğan",
+      "Manchester City",
+      "Barcelona"
+    ],
+    [
+      "Ousmane Dembélé",
+      "Barcelona",
+      "Paris Saint-Germain"
+    ],
+    [
+      "Kim Min-jae",
+      "Napoli",
+      "Bayern Munich"
+    ]
+  ],
+  "ucl": {
+    "winner": "Real Madrid",
+    "runnerUp": "Borussia Dortmund",
+    "score": "Real Madrid 2–0 Borussia Dortmund",
+    "venue": "Wembley Stadium, London",
+    "winnerCore": {
+      "s": [
+        "Jude Bellingham",
+        "Vinícius Júnior"
+      ],
+      "a": [
+        "Dani Carvajal",
+        "Toni Kroos",
+        "Luka Modrić",
+        "Antonio Rüdiger",
+        "Thibaut Courtois"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Marco Reus",
+        "Mats Hummels"
+      ],
+      "a": [
+        "Julian Brandt",
+        "Nico Schlotterbeck",
+        "Gregor Kobel",
+        "Emre Can"
+      ]
+    }
+  },
+  "leagues": {
+    "Premier League": [
+      {
+        "position": 1,
+        "name": "Manchester City",
+        "tiers": {
+          "s": [
+            "Erling Haaland",
+            "Phil Foden"
+          ],
+          "a": [
+            "Rodri",
+            "Kevin De Bruyne",
+            "Rúben Dias"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Arsenal",
+        "tiers": {
+          "s": [
+            "Bukayo Saka",
+            "Martin Ødegaard"
+          ],
+          "a": [
+            "Declan Rice",
+            "William Saliba",
+            "Gabriel Magalhães"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Liverpool",
+        "tiers": {
+          "s": [
+            "Mohamed Salah",
+            "Virgil van Dijk"
+          ],
+          "a": [
+            "Trent Alexander-Arnold",
+            "Alisson",
+            "Darwin Núñez"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Aston Villa",
+        "tiers": {
+          "s": [
+            "Ollie Watkins",
+            "Emiliano Martínez"
+          ],
+          "a": [
+            "Douglas Luiz",
+            "John McGinn",
+            "Moussa Diaby"
+          ]
+        }
+      }
+    ],
+    "La Liga": [
+      {
+        "position": 1,
+        "name": "Real Madrid",
+        "tiers": {
+          "s": [
+            "Jude Bellingham",
+            "Vinícius Júnior"
+          ],
+          "a": [
+            "Dani Carvajal",
+            "Toni Kroos",
+            "Antonio Rüdiger"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Barcelona",
+        "tiers": {
+          "s": [
+            "Robert Lewandowski",
+            "Lamine Yamal"
+          ],
+          "a": [
+            "Pedri",
+            "Frenkie de Jong",
+            "Ronald Araújo"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Girona",
+        "tiers": {
+          "s": [
+            "Artem Dovbyk",
+            "Aleix García"
+          ],
+          "a": [
+            "Sávio",
+            "Miguel Gutiérrez",
+            "Yangel Herrera"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Atlético Madrid",
+        "tiers": {
+          "s": [
+            "Antoine Griezmann",
+            "Álvaro Morata"
+          ],
+          "a": [
+            "Jan Oblak",
+            "Koke",
+            "Rodrigo De Paul"
+          ]
+        }
+      }
+    ],
+    "Serie A": [
+      {
+        "position": 1,
+        "name": "Inter",
+        "tiers": {
+          "s": [
+            "Lautaro Martínez",
+            "Nicolò Barella"
+          ],
+          "a": [
+            "Hakan Çalhanoğlu",
+            "Alessandro Bastoni",
+            "Federico Dimarco"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "AC Milan",
+        "tiers": {
+          "s": [
+            "Rafael Leão",
+            "Christian Pulisic"
+          ],
+          "a": [
+            "Theo Hernández",
+            "Olivier Giroud",
+            "Mike Maignan"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Juventus",
+        "tiers": {
+          "s": [
+            "Dušan Vlahović",
+            "Federico Chiesa"
+          ],
+          "a": [
+            "Adrien Rabiot",
+            "Bremer",
+            "Wojciech Szczęsny"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Bologna",
+        "tiers": {
+          "s": [
+            "Joshua Zirkzee",
+            "Riccardo Calafiori"
+          ],
+          "a": [
+            "Lewis Ferguson",
+            "Riccardo Orsolini",
+            "Łukasz Skorupski"
+          ]
+        }
+      }
+    ],
+    "Bundesliga": [
+      {
+        "position": 1,
+        "name": "Bayer Leverkusen",
+        "tiers": {
+          "s": [
+            "Florian Wirtz",
+            "Granit Xhaka"
+          ],
+          "a": [
+            "Victor Boniface",
+            "Jeremie Frimpong",
+            "Álex Grimaldo"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Stuttgart",
+        "tiers": {
+          "s": [
+            "Serhou Guirassy",
+            "Deniz Undav"
+          ],
+          "a": [
+            "Angelo Stiller",
+            "Chris Führich",
+            "Waldemar Anton"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Bayern Munich",
+        "tiers": {
+          "s": [
+            "Harry Kane",
+            "Jamal Musiala"
+          ],
+          "a": [
+            "Leroy Sané",
+            "Joshua Kimmich",
+            "Manuel Neuer"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "RB Leipzig",
+        "tiers": {
+          "s": [
+            "Loïs Openda",
+            "Xavi Simons"
+          ],
+          "a": [
+            "Dani Olmo",
+            "Benjamin Šeško",
+            "Willi Orbán"
+          ]
+        }
+      }
+    ],
+    "Ligue 1": [
+      {
+        "position": 1,
+        "name": "Paris Saint-Germain",
+        "tiers": {
+          "s": [
+            "Kylian Mbappé",
+            "Ousmane Dembélé"
+          ],
+          "a": [
+            "Vitinha",
+            "Warren Zaïre-Emery",
+            "Marquinhos"
+          ]
+        }
+      },
+      {
+        "position": 2,
+        "name": "Monaco",
+        "tiers": {
+          "s": [
+            "Wissam Ben Yedder",
+            "Aleksandr Golovin"
+          ],
+          "a": [
+            "Takumi Minamino",
+            "Youssouf Fofana",
+            "Philipp Köhn"
+          ]
+        }
+      },
+      {
+        "position": 3,
+        "name": "Brest",
+        "tiers": {
+          "s": [
+            "Pierre Lees-Melou",
+            "Romain Del Castillo"
+          ],
+          "a": [
+            "Marco Bizot",
+            "Lilian Brassier",
+            "Mahdi Camara"
+          ]
+        }
+      },
+      {
+        "position": 4,
+        "name": "Lille",
+        "tiers": {
+          "s": [
+            "Jonathan David",
+            "Edon Zhegrova"
+          ],
+          "a": [
+            "Angel Gomes",
+            "Benjamin André",
+            "Lucas Chevalier"
+          ]
+        }
+      }
+    ]
+  },
+  "international": {
+    "type": "Euro",
+    "year": 2024,
+    "winner": "Spain",
+    "runnerUp": "England",
+    "score": "Spain 2–1 England",
+    "winnerCore": {
+      "s": [
+        "Rodri",
+        "Lamine Yamal"
+      ],
+      "a": [
+        "Nico Williams",
+        "Dani Olmo",
+        "Fabián Ruiz",
+        "Marc Cucurella",
+        "Unai Simón"
+      ]
+    },
+    "runnerCore": {
+      "s": [
+        "Jude Bellingham",
+        "Harry Kane"
+      ],
+      "a": [
+        "Bukayo Saka",
+        "Declan Rice",
+        "Phil Foden",
+        "Jordan Pickford"
+      ]
+    }
+  }
+}
